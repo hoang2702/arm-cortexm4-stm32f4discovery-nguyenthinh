@@ -1,0 +1,10 @@
+.\exti\tim_config.o: ..\TIM_Config.c
+.\exti\tim_config.o: ..\TIM_Config.h
+.\exti\tim_config.o: C:\Keil_v5\ARM\Inc\ST\STM32F4xx\stm32f4xx.h
+.\exti\tim_config.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm4.h
+.\exti\tim_config.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\exti\tim_config.o: ..\..\..\..\Libraries\CMSIS\Include\core_cmInstr.h
+.\exti\tim_config.o: ..\..\..\..\Libraries\CMSIS\Include\core_cmFunc.h
+.\exti\tim_config.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm4_simd.h
+.\exti\tim_config.o: C:\Keil_v5\ARM\Inc\ST\STM32F4xx\system_stm32f4xx.h
+.\exti\tim_config.o: ..\stm32f4xx_conf.h

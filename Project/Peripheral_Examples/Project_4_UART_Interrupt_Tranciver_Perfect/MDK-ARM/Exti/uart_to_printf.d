@@ -1,0 +1,14 @@
+.\exti\uart_to_printf.o: ..\uart_to_printf.c
+.\exti\uart_to_printf.o: ..\uart_to_printf.h
+.\exti\uart_to_printf.o: ..\..\..\..\Libraries\CMSIS\ST\STM32F4xx\Include\stm32f4xx.h
+.\exti\uart_to_printf.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm4.h
+.\exti\uart_to_printf.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\exti\uart_to_printf.o: ..\..\..\..\Libraries\CMSIS\Include\core_cmInstr.h
+.\exti\uart_to_printf.o: ..\..\..\..\Libraries\CMSIS\Include\core_cmFunc.h
+.\exti\uart_to_printf.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm4_simd.h
+.\exti\uart_to_printf.o: ..\..\..\..\Libraries\CMSIS\ST\STM32F4xx\Include\system_stm32f4xx.h
+.\exti\uart_to_printf.o: ..\stm32f4xx_conf.h
+.\exti\uart_to_printf.o: ..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_adc.h
+.\exti\uart_to_printf.o: ..\..\..\..\Libraries\CMSIS\ST\STM32F4xx\Include\stm32f4xx.h
+.\exti\uart_to_printf.o: ..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_can.h
+.\exti\uart_to_printf.o: ..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_crc.h
