@@ -1,0 +1,86 @@
+C:\Users\Nguyen Thinh\Documents\Visual Studio 2010\Projects\Exam\exam2\RS232_Form\RS232_Form\bin\Debug\RS232_Form.exe
+C:\Users\Nguyen Thinh\Documents\Visual Studio 2010\Projects\Exam\exam2\RS232_Form\RS232_Form\bin\Debug\RS232_Form.pdb
+C:\Users\Nguyen Thinh\Documents\Visual Studio 2010\Projects\Exam\exam2\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.Form1.resources
+C:\Users\Nguyen Thinh\Documents\Visual Studio 2010\Projects\Exam\exam2\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.Properties.Resources.resources
+C:\Users\Nguyen Thinh\Documents\Visual Studio 2010\Projects\Exam\exam2\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.csproj.GenerateResource.Cache
+C:\Users\Nguyen Thinh\Documents\Visual Studio 2010\Projects\Exam\exam2\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.exe
+C:\Users\Nguyen Thinh\Documents\Visual Studio 2010\Projects\Exam\exam2\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.pdb
+C:\Users\Nguyen Thinh\Documents\Visual Studio 2010\Projects\Exam\exam2\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Thinh\Documents\Visual Studio 2010\Projects\Exam\exam2\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.Form2.resources
+D:\DAI_HOC\Nam_4\KTGT MAY TINH\BTL\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.exe
+D:\DAI_HOC\Nam_4\KTGT MAY TINH\BTL\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.pdb
+D:\DAI_HOC\Nam_4\KTGT MAY TINH\BTL\RS232_Form\RS232_Form\bin\Debug\RS232_Form.exe
+D:\DAI_HOC\Nam_4\KTGT MAY TINH\BTL\RS232_Form\RS232_Form\bin\Debug\RS232_Form.pdb
+D:\DAI_HOC\Nam_4\KTGT MAY TINH\BTL\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.csprojResolveAssemblyReference.cache
+D:\DAI_HOC\Nam_4\KTGT MAY TINH\BTL\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.Form1.resources
+D:\DAI_HOC\Nam_4\KTGT MAY TINH\BTL\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.Form2.resources
+D:\DAI_HOC\Nam_4\KTGT MAY TINH\BTL\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.Properties.Resources.resources
+D:\DAI_HOC\Nam_4\KTGT MAY TINH\BTL\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.csproj.GenerateResource.Cache
+E:\Tong hop tai lieu thuong\Tai lieu Thuong\Ki thuat giao tiep may tinh\BTL\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.exe
+E:\Tong hop tai lieu thuong\Tai lieu Thuong\Ki thuat giao tiep may tinh\BTL\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.pdb
+E:\Tong hop tai lieu thuong\Tai lieu Thuong\Ki thuat giao tiep may tinh\BTL\RS232_Form\RS232_Form\bin\Debug\RS232_Form.exe
+E:\Tong hop tai lieu thuong\Tai lieu Thuong\Ki thuat giao tiep may tinh\BTL\RS232_Form\RS232_Form\bin\Debug\RS232_Form.pdb
+E:\Tong hop tai lieu thuong\Tai lieu Thuong\Ki thuat giao tiep may tinh\BTL\RS232_Form\RS232_Form\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Tong hop tai lieu thuong\Tai lieu Thuong\Ki thuat giao tiep may tinh\BTL\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.Form1.resources
+E:\Tong hop tai lieu thuong\Tai lieu Thuong\Ki thuat giao tiep may tinh\BTL\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.Form2.resources
+E:\Tong hop tai lieu thuong\Tai lieu Thuong\Ki thuat giao tiep may tinh\BTL\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.Properties.Resources.resources
+E:\Tong hop tai lieu thuong\Tai lieu Thuong\Ki thuat giao tiep may tinh\BTL\RS232_Form\RS232_Form\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Tong hop tai lieu thuong\Tai lieu Thuong\Ki thuat giao tiep may tinh\BTL\RS232_Form\RS232_Form\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DAI_HOC\Nam_4\KTGT MAY TINH\RS232_Form\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.exe
+D:\DAI_HOC\Nam_4\KTGT MAY TINH\RS232_Form\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.pdb
+D:\DAI_HOC\Nam_4\KTGT MAY TINH\RS232_Form\RS232_Form\RS232_Form\bin\Debug\RS232_Form.exe
+D:\DAI_HOC\Nam_4\KTGT MAY TINH\RS232_Form\RS232_Form\RS232_Form\bin\Debug\RS232_Form.pdb
+D:\DAI_HOC\Nam_4\KTGT MAY TINH\RS232_Form\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.csprojResolveAssemblyReference.cache
+D:\DAI_HOC\Nam_4\KTGT MAY TINH\RS232_Form\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.Form1.resources
+D:\DAI_HOC\Nam_4\KTGT MAY TINH\RS232_Form\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.Form2.resources
+D:\DAI_HOC\Nam_4\KTGT MAY TINH\RS232_Form\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.Properties.Resources.resources
+D:\DAI_HOC\Nam_4\KTGT MAY TINH\RS232_Form\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.csproj.GenerateResource.Cache
+D:\DAI_HOC\Nam_4\KTGT MAY TINH\BTL\GLCD_RS232_Keypad\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.exe
+D:\DAI_HOC\Nam_4\KTGT MAY TINH\BTL\GLCD_RS232_Keypad\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.pdb
+D:\DAI_HOC\Nam_4\KTGT MAY TINH\BTL\Nhom1_Detai1_GiaoTiepRS232_KSTN\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.exe
+D:\DAI_HOC\Nam_4\KTGT MAY TINH\BTL\Nhom1_Detai1_GiaoTiepRS232_KSTN\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.pdb
+D:\DAI_HOC\Nam_4\KTGT MAY TINH\BTL\Nhom1_Detai1_GiaoTiepRS232_KSTN\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\bin\Debug\RS232_Form.exe
+D:\DAI_HOC\Nam_4\KTGT MAY TINH\BTL\Nhom1_Detai1_GiaoTiepRS232_KSTN\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\bin\Debug\RS232_Form.pdb
+D:\DAI_HOC\Nam_4\KTGT MAY TINH\BTL\Nhom1_Detai1_GiaoTiepRS232_KSTN\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.csprojResolveAssemblyReference.cache
+D:\DAI_HOC\Nam_4\KTGT MAY TINH\BTL\Nhom1_Detai1_GiaoTiepRS232_KSTN\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.Form1.resources
+D:\DAI_HOC\Nam_4\KTGT MAY TINH\BTL\Nhom1_Detai1_GiaoTiepRS232_KSTN\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.Form2.resources
+D:\DAI_HOC\Nam_4\KTGT MAY TINH\BTL\Nhom1_Detai1_GiaoTiepRS232_KSTN\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.Properties.Resources.resources
+D:\DAI_HOC\Nam_4\KTGT MAY TINH\BTL\Nhom1_Detai1_GiaoTiepRS232_KSTN\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.csproj.GenerateResource.Cache
+D:\DAI_HOC\Nam_4\HK1\KTGT MAY TINH\BTL\Nhom1_Detai1_GiaoTiepRS232_KSTN\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.exe
+D:\DAI_HOC\Nam_4\HK1\KTGT MAY TINH\BTL\Nhom1_Detai1_GiaoTiepRS232_KSTN\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.pdb
+D:\DAI_HOC\Nam_4\HK1\KTGT MAY TINH\BTL\Nhom1_Detai1_GiaoTiepRS232_KSTN\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\bin\Debug\RS232_Form.exe
+D:\DAI_HOC\Nam_4\HK1\KTGT MAY TINH\BTL\Nhom1_Detai1_GiaoTiepRS232_KSTN\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\bin\Debug\RS232_Form.pdb
+D:\DAI_HOC\Nam_4\HK1\KTGT MAY TINH\BTL\Nhom1_Detai1_GiaoTiepRS232_KSTN\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.csprojResolveAssemblyReference.cache
+D:\DAI_HOC\Nam_4\HK1\KTGT MAY TINH\BTL\Nhom1_Detai1_GiaoTiepRS232_KSTN\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.Form1.resources
+D:\DAI_HOC\Nam_4\HK1\KTGT MAY TINH\BTL\Nhom1_Detai1_GiaoTiepRS232_KSTN\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.Form2.resources
+D:\DAI_HOC\Nam_4\HK1\KTGT MAY TINH\BTL\Nhom1_Detai1_GiaoTiepRS232_KSTN\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.Properties.Resources.resources
+D:\DAI_HOC\Nam_4\HK1\KTGT MAY TINH\BTL\Nhom1_Detai1_GiaoTiepRS232_KSTN\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.csproj.GenerateResource.Cache
+D:\DAI_HOC\Nam_4\HK2\DAMH_CDT\STM32F4-Discovery_FW_V1.1.0 - Copy\Project\Peripheral_Examples\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.exe
+D:\DAI_HOC\Nam_4\HK2\DAMH_CDT\STM32F4-Discovery_FW_V1.1.0 - Copy\Project\Peripheral_Examples\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.pdb
+D:\DAI_HOC\Nam_4\HK2\DAMH_CDT\STM32F4-Discovery_FW_V1.1.0 - Copy\Project\Peripheral_Examples\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\bin\Debug\RS232_Form.exe
+D:\DAI_HOC\Nam_4\HK2\DAMH_CDT\STM32F4-Discovery_FW_V1.1.0 - Copy\Project\Peripheral_Examples\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\bin\Debug\RS232_Form.pdb
+D:\DAI_HOC\Nam_4\HK2\DAMH_CDT\STM32F4-Discovery_FW_V1.1.0 - Copy\Project\Peripheral_Examples\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.csprojResolveAssemblyReference.cache
+D:\DAI_HOC\Nam_4\HK2\DAMH_CDT\STM32F4-Discovery_FW_V1.1.0 - Copy\Project\Peripheral_Examples\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.Form1.resources
+D:\DAI_HOC\Nam_4\HK2\DAMH_CDT\STM32F4-Discovery_FW_V1.1.0 - Copy\Project\Peripheral_Examples\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.Form2.resources
+D:\DAI_HOC\Nam_4\HK2\DAMH_CDT\STM32F4-Discovery_FW_V1.1.0 - Copy\Project\Peripheral_Examples\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.Properties.Resources.resources
+D:\DAI_HOC\Nam_4\HK2\DAMH_CDT\STM32F4-Discovery_FW_V1.1.0 - Copy\Project\Peripheral_Examples\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.csproj.GenerateResource.Cache
+D:\HOC_TAP\DAI_HOC\Dropbox\Project_Thuong_Thinh\STM32F4-Discovery_FW_V1.1.0 - Copy\STM32F4-Discovery_FW_V1.1.0 - Copy\Project\Peripheral_Examples\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.exe
+D:\HOC_TAP\DAI_HOC\Dropbox\Project_Thuong_Thinh\STM32F4-Discovery_FW_V1.1.0 - Copy\STM32F4-Discovery_FW_V1.1.0 - Copy\Project\Peripheral_Examples\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.pdb
+D:\HOC_TAP\DAI_HOC\Dropbox\Project_Thuong_Thinh\STM32F4-Discovery_FW_V1.1.0 - Copy\STM32F4-Discovery_FW_V1.1.0 - Copy\Project\Peripheral_Examples\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\bin\Debug\RS232_Form.exe
+D:\HOC_TAP\DAI_HOC\Dropbox\Project_Thuong_Thinh\STM32F4-Discovery_FW_V1.1.0 - Copy\STM32F4-Discovery_FW_V1.1.0 - Copy\Project\Peripheral_Examples\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\bin\Debug\RS232_Form.pdb
+D:\HOC_TAP\DAI_HOC\Dropbox\Project_Thuong_Thinh\STM32F4-Discovery_FW_V1.1.0 - Copy\STM32F4-Discovery_FW_V1.1.0 - Copy\Project\Peripheral_Examples\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.csprojResolveAssemblyReference.cache
+D:\HOC_TAP\DAI_HOC\Dropbox\Project_Thuong_Thinh\STM32F4-Discovery_FW_V1.1.0 - Copy\STM32F4-Discovery_FW_V1.1.0 - Copy\Project\Peripheral_Examples\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.Form1.resources
+D:\HOC_TAP\DAI_HOC\Dropbox\Project_Thuong_Thinh\STM32F4-Discovery_FW_V1.1.0 - Copy\STM32F4-Discovery_FW_V1.1.0 - Copy\Project\Peripheral_Examples\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.Form2.resources
+D:\HOC_TAP\DAI_HOC\Dropbox\Project_Thuong_Thinh\STM32F4-Discovery_FW_V1.1.0 - Copy\STM32F4-Discovery_FW_V1.1.0 - Copy\Project\Peripheral_Examples\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.Properties.Resources.resources
+D:\HOC_TAP\DAI_HOC\Dropbox\Project_Thuong_Thinh\STM32F4-Discovery_FW_V1.1.0 - Copy\STM32F4-Discovery_FW_V1.1.0 - Copy\Project\Peripheral_Examples\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.csproj.GenerateResource.Cache
+C:\Users\LABC3-HP\Dropbox\Project_Thuong_Thinh\STM32F4-Discovery_FW_V1.1.0 - Copy\Project\Peripheral_Examples\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.exe
+C:\Users\LABC3-HP\Dropbox\Project_Thuong_Thinh\STM32F4-Discovery_FW_V1.1.0 - Copy\Project\Peripheral_Examples\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.pdb
+C:\Users\LABC3-HP\Dropbox\Project_Thuong_Thinh\STM32F4-Discovery_FW_V1.1.0 - Copy\Project\Peripheral_Examples\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\bin\Debug\RS232_Form.exe
+C:\Users\LABC3-HP\Dropbox\Project_Thuong_Thinh\STM32F4-Discovery_FW_V1.1.0 - Copy\Project\Peripheral_Examples\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\bin\Debug\RS232_Form.pdb
+C:\Users\LABC3-HP\Dropbox\Project_Thuong_Thinh\STM32F4-Discovery_FW_V1.1.0 - Copy\Project\Peripheral_Examples\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.csprojResolveAssemblyReference.cache
+C:\Users\LABC3-HP\Dropbox\Project_Thuong_Thinh\STM32F4-Discovery_FW_V1.1.0 - Copy\Project\Peripheral_Examples\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.Form1.resources
+C:\Users\LABC3-HP\Dropbox\Project_Thuong_Thinh\STM32F4-Discovery_FW_V1.1.0 - Copy\Project\Peripheral_Examples\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.Form2.resources
+C:\Users\LABC3-HP\Dropbox\Project_Thuong_Thinh\STM32F4-Discovery_FW_V1.1.0 - Copy\Project\Peripheral_Examples\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.Properties.Resources.resources
+C:\Users\LABC3-HP\Dropbox\Project_Thuong_Thinh\STM32F4-Discovery_FW_V1.1.0 - Copy\Project\Peripheral_Examples\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.csproj.GenerateResource.Cache
+D:\HOC_TAP\DAI_HOC\Dropbox\Project_Thuong_Thinh\STM32F4-Discovery_FW_V1.1.0 - Copy\Project\Peripheral_Examples\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.exe
+D:\HOC_TAP\DAI_HOC\Dropbox\Project_Thuong_Thinh\STM32F4-Discovery_FW_V1.1.0 - Copy\Project\Peripheral_Examples\File_Code_C#_TrenMayTinh\RS232_Form\RS232_Form\obj\x86\Debug\RS232_Form.pdb

@@ -1,0 +1,9 @@
+.\exti\system_stm32f4xx.o: ..\system_stm32f4xx.c
+.\exti\system_stm32f4xx.o: C:\Keil_v5\ARM\Inc\ST\STM32F4xx\stm32f4xx.h
+.\exti\system_stm32f4xx.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm4.h
+.\exti\system_stm32f4xx.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\exti\system_stm32f4xx.o: ..\..\..\..\Libraries\CMSIS\Include\core_cmInstr.h
+.\exti\system_stm32f4xx.o: ..\..\..\..\Libraries\CMSIS\Include\core_cmFunc.h
+.\exti\system_stm32f4xx.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm4_simd.h
+.\exti\system_stm32f4xx.o: C:\Keil_v5\ARM\Inc\ST\STM32F4xx\system_stm32f4xx.h
+.\exti\system_stm32f4xx.o: ..\stm32f4xx_conf.h

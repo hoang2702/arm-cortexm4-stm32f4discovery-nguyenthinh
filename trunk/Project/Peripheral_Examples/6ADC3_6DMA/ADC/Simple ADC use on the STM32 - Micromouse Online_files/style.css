@@ -1,0 +1,131 @@
+﻿/*
+Theme Name: Clearness Child
+Author: Paul Michael Modified by Peter  Harrison
+Description:Based on the theme Third Style, Clearness is as clear, high quality design theme that supports Adsense ads. It is coded with new css3 features, it's Wordpress 3 ready and it's fully customizable.
+Version: 1.2
+Author URI: http://www.top-adsense-themes.com/
+Tags: black, white, two-columns, fixed-width, custom-header, custom-background, threaded-comments, sticky-post, translation-ready, microformats, rtl-language-support, editor-style
+Template: Clearness
+*/
+
+@import url("../Clearness/style.css");
+
+#content table {
+	border: 1px solid #e7e7e7;
+	margin: 0 -1px 24px 0;
+	text-align: left;
+	width: 100%;
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+#content tr th,
+#content thead th {
+	color: #333;
+	background: url(../Clearness/images/main_bg.png) repeat-x left top;
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 14px;
+	padding: 8px 8px;
+}
+
+#content tr td {
+	border-top: 1px solid #e7e7e7;
+	padding: 2px 8px;
+	xline-height:16px;
+
+}
+
+#content tr.odd td {
+	background: #f2f7fc;
+}
+
+
+
+.adsense_180x150_sidebar {
+  text-align:left;
+  margin:1px 0 20px 0;
+  font-size:9pt;
+  }
+  
+/* close up the space between posts */
+.hentry {
+margin: 0 0 18px 0;
+}
+
+#main .post {
+border-bottom: 1px solid #E7E7E7;
+padding-bottom: 3px;
+padding-top: 0px;
+margin-top: 0px;
+}
+
+
+a.more-link {
+  clear:left;
+  display:block;
+xcolor: #888;
+xbackground: #EEE;
+xborder: #CCC solid 1px;
+xborder-image: initial;
+xborder-radius:3px;
+xmargin-top:5px;
+xtext-decoration: none;
+xtext-align:right;
+}
+
+.home .sticky {
+background: #EFE;
+
+margin-left: -15px;
+margin-right: -20px;
+padding: 18px 20px;
+}
+
+#content pre{
+  font-family:monospace,courier;
+font-size:12px;
+line-height:15px;
+padding:8px;
+}
+
+#content code{
+  font-family:monospace,courier;
+font-size:12px;
+line-height:15px;
+padding:8px;
+background-color:#eee;
+display:block;
+}
+
+div#main div.entry-content h2 {
+font-weight: bold;
+color: #759900;
+line-height: 1.2em;
+font-size: 1.2em;
+margin: 0px 0 8px 0;
+}
+
+div#main div.entry-content h3{
+font-weight: bold;
+color: #000;
+line-height: 1.2em;
+font-size: 1.0em;
+margin: 0px 0 8px 0;
+}
+
+div#main div.entry-content h4 {
+font-weight: bold;
+color: #000;
+line-height: 1.2em;
+font-size: 0.8em;
+margin: 0px 0 8px 0;
+}
+
+div#main div.entry-content h5 {
+font-weight: bold;
+color: #000;
+line-height: 1.2em;
+font-size: 0.8em;
+margin: 0px 0 8px 0;
+}
+

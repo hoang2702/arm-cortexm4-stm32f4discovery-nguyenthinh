@@ -1,0 +1,1024 @@
+﻿/* _themes/STFORUM/STFO1011-65001.css */
+ .ms-toolbar {	COLOR: #276cff}
+ .ms-viewtoolbar {	COLOR: #276cff}
+ .ms-formtoolbar {	COLOR: #276cff}
+ .ms-toolbar-togglebutton-on 
+ {
+ 	BORDER-RIGHT: #276cff 1px solid;
+ 	BORDER-TOP: #276cff 1px solid;
+ 	BORDER-LEFT: #276cff 1px solid;
+ 	BORDER-BOTTOM: #276cff 1px solid}
+ TABLE.ms-toolbar
+  {	BACKGROUND-IMAGE: url(toolgrad_stforum.gif);
+  	BACKGROUND-COLOR: #e4ecff}
+  	
+  TABLE.ms-viewtoolbar
+   {	BACKGROUND-IMAGE: url(toolgrad_stforum.gif);
+   	BACKGROUND-COLOR: #e4ecff}
+   	TABLE.ms-toolbar {	
+   	BORDER-RIGHT: #a3c1ff 1px solid;
+   	BORDER-TOP: #a3c1ff 1px solid;
+   	BORDER-LEFT: #a3c1ff 1px solid;
+   	BORDER-BOTTOM: #a3c1ff 1px solid}
+   	
+   	TABLE.ms-viewtoolbar {
+   	BORDER-TOP: #939393 1px solid;
+   	BORDER-BOTTOM: #939393 1px solid}
+   			
+   	.ms-listheader {   	
+   	BACKGROUND-IMAGE: url(listheadergrad_stforum.gif);
+   		COLOR: #444444;	BACKGROUND-COLOR: #dfe9ff}
+   		
+   	.ms-menutoolbar 
+   	{	BACKGROUND-IMAGE: url(listheadergrad_stforum.gif);
+   		BORDER-BOTTOM: #939393 1px solid;
+   		BACKGROUND-COLOR: #dfe9ff}
+   	.ms-menutoolbar TD {
+   	BORDER-TOP: #f9f9f9 1px solid;
+   	BORDER-BOTTOM: #e5e5e5 1px solid}
+   	.ms-menutoolbar TD A 
+   	{	COLOR: #276cff}
+   	.ms-menubuttonactivehover
+   	 {	BORDER-RIGHT: #79a4ff 1px solid;
+   	 	BORDER-TOP: #79a4ff 1px solid;
+   	 	BACKGROUND-IMAGE: url(menubuttonhover_stforum.gif);
+   	 	BORDER-LEFT: #79a4ff 1px solid;
+   	 	BORDER-BOTTOM: #79a4ff 1px solid}
+   	 				
+   	 DIV.ms-menubuttonactivehover A 
+   	 {	COLOR: #000000}
+   	 TD.ms-menutoolbarheader
+   	  {	COLOR: #444444}
+   	  .ms-listheaderlabel
+   	   {	COLOR: #444444}
+   	   .ms-menutoolbar TD TD.ms-viewselector
+   	    {	BORDER-RIGHT: #79a4ff 1px solid;
+   	    	BORDER-TOP: #79a4ff 1px solid;
+   	    	BACKGROUND-IMAGE: url(viewselectorgrad_stforum.gif);
+   	    	BORDER-LEFT: #79a4ff 1px solid;
+   	    	BORDER-BOTTOM: #79a4ff 1px solid;
+   	    	BACKGROUND-COLOR: #ffd233}
+   	    .ms-menutoolbar TD TD.ms-viewselectorhover 
+   	    {	BORDER-RIGHT: #79a4ff 1px solid;
+   	    	BORDER-TOP: #79a4ff 1px solid;
+   	    	BACKGROUND-IMAGE: url(viewselectorgrad_stforum.gif);
+   	    	BORDER-LEFT: #79a4ff 1px solid;
+   	    	BORDER-BOTTOM: #79a4ff 1px solid;
+   	    	BACKGROUND-COLOR: #ffd233}
+   	    .ms-toolbar TD TD.ms-viewselector 
+   	    {	BORDER-RIGHT: #79a4ff 1px solid;
+   	    	BORDER-TOP: #79a4ff 1px solid;
+   	    		BACKGROUND-IMAGE: url(viewselectorgrad_stforum.gif);
+   	    			BORDER-LEFT: #79a4ff 1px solid;
+   	    				BORDER-BOTTOM: #79a4ff 1px solid;
+   	    					BACKGROUND-COLOR: #ffd233}
+   	    .ms-toolbar TD TD.ms-viewselectorhover 
+   	    {	BORDER-RIGHT: #79a4ff 1px solid;
+   	    	BORDER-TOP: #79a4ff 1px solid;
+   	    	BACKGROUND-IMAGE: url(viewselectorgrad_stforum.gif);
+   	    	BORDER-LEFT: #79a4ff 1px solid;
+   	    	BORDER-BOTTOM: #79a4ff 1px solid;
+   	    	BACKGROUND-COLOR: #ffd233}
+   	    .ms-authoringcontrols TD TD.ms-viewselector
+   	     {	BORDER-RIGHT: #79a4ff 1px solid;
+   	     	BORDER-TOP: #79a4ff 1px solid;
+   	     	BACKGROUND-IMAGE: url(viewselectorgrad_stforum.gif);
+   	     	BORDER-LEFT: #79a4ff 1px solid;
+   	     		BORDER-BOTTOM: #79a4ff 1px solid;
+   	     			BACKGROUND-COLOR: #ffd233}
+   	     .ms-authoringcontrols TD TD.ms-viewselectorhover
+   	      {	BORDER-RIGHT: #79a4ff 1px solid;
+   	      	BORDER-TOP: #79a4ff 1px solid;
+   	      		BACKGROUND-IMAGE: url(viewselectorgrad_stforum.gif);
+   	      			BORDER-LEFT: #79a4ff 1px solid;
+   	      				BORDER-BOTTOM: #79a4ff 1px solid;
+   	      					BACKGROUND-COLOR: #ffd233}
+   	      DIV.ms-viewselector A {
+   	      	COLOR: #444444}
+   	      DIV.ms-viewselectorhover A 
+   	      {	COLOR: #444444}
+   	      .ms-bottompaging
+   	       {	BACKGROUND: #efefef}
+   	      .ms-bottompagingline1 {	BACKGROUND: #a8a8a8}
+   	      .ms-paging {	COLOR: #444444}
+   	      .ms-splitbuttonhover {
+   	      	BACKGROUND-IMAGE: url(menubuttonhover_stforum.gif)}
+   	      TABLE.ms-splitbuttonhover TD A 
+   	      {	COLOR: #000000}
+   	      .ms-splitbuttonhover .ms-splitbuttondropdown
+   	       {	BORDER-RIGHT: #79a4ff 1px solid;
+   	       	BORDER-TOP: #79a4ff 1px solid;
+   	       	BORDER-LEFT: #79a4ff 1px solid;
+   	       	BORDER-BOTTOM: #79a4ff 1px solid}
+   	       .ms-splitbuttonhover .ms-splitbuttontext {
+   	       	BORDER-RIGHT: #79a4ff 1px solid;
+   	       	BORDER-TOP: #79a4ff 1px solid;
+   	       	BORDER-LEFT: #79a4ff 1px solid;
+   	       		BORDER-BOTTOM: #79a4ff 1px solid}
+   	       	TD.ms-rtetoolbarsel {
+   	       	BORDER-RIGHT: #276cff 1px solid;
+   	       		BORDER-TOP: #276cff 1px solid;
+   	       			BACKGROUND-IMAGE: url(rtebnsel_stforum.gif);
+   	       				BORDER-LEFT: #276cff 1px solid;
+   	       					BORDER-BOTTOM: #276cff 1px solid}
+   	       	TD.ms-rtetoolbarhov {
+   	       		BORDER-RIGHT: #276cff 1px solid;
+   	       			BORDER-TOP: #276cff 1px solid;
+   	       				BACKGROUND-IMAGE: url(rtebnhov_stforum.gif);
+   	       					BORDER-LEFT: #276cff 1px solid;
+   	       						BORDER-BOTTOM: #276cff 1px solid}
+   	       	.ms-viewselect A:link {	COLOR: #276cff}
+   	       	.ms-GRFontSize {	COLOR: #276cff}
+   	       	HR {	COLOR: #276cff}
+   	       	.ms-formdescription A {	COLOR: #276cff}
+   	       	.ms-informationbar {	BORDER-RIGHT: #cc9f00 1px solid;
+   	       	BORDER-TOP: #cc9f00 1px solid;
+   	       	BORDER-LEFT: #cc9f00 1px solid;
+   	       	BORDER-BOTTOM: #cc9f00 1px solid;
+   	       	BACKGROUND-COLOR: #fff4cb}
+   	       	.ms-formbody {
+   	       		BACKGROUND: #efefef}
+   	       	.ms-formbutton {
+   	       	BACKGROUND-IMAGE: url(buttongrad_stforum.gif)}
+   	       	.ms-formfieldlabel
+   	       	 {	BACKGROUND-IMAGE: url(globgrad_stforum.gif)}
+   	       	 .ms-searchcorner 	
+   	       	 {
+   	       	 	BACKGROUND-IMAGE: url(srchcrnr_stforum.gif)}
+   	       	 TABLE.ms-form TH 
+   	       	 {	COLOR: #276cff}
+   	       	 .ms-bannerContainer {	}
+   	       	 .ms-globalbreadcrumb {	PADDING-LEFT: 45px;	BACKGROUND-COLOR: #ffffff}
+   	       	 .ms-pagebreadcrumb {	BACKGROUND-COLOR: #efefef}
+   	       	 .ms-pagebreadcrumb A {	BACKGROUND-COLOR: #efefef}
+   	       	 .ms-siteactionsmenu DIV DIV DIV 
+   	       	 {
+   	       	 	BORDER-RIGHT: #939393 1px solid;BORDER-TOP: #939393 1px solid;
+   	       	 	BACKGROUND-IMAGE: url(siteactionsmenugrad_stforum.gif);
+   	       	 	BORDER-LEFT: #939393 1px solid;	BACKGROUND-COLOR: #a8a8a8
+   	       	 }
+   	       	 .ms-siteactionsmenu DIV DIV DIV.ms-siteactionsmenuhover
+   	       	  {	BORDER-RIGHT: #665000 1px solid;
+   	       	   	BORDER-TOP: #665000 1px solid;
+   	       	   	BACKGROUND-IMAGE: url(siteactionsmenuhovergrad_stforum.gif);
+   	       	   	BORDER-LEFT: #665000 1px solid;
+   	       	   	BACKGROUND-COLOR: #947300
+   	       	   	}
+   	       	  .ms-actionbar
+   	       	   {
+   	       	   	BORDER-RIGHT: #939393 1px solid;
+   	       	   	BORDER-TOP: #939393 1px solid;
+   	       	   	BORDER-LEFT: #939393 1px solid;	
+   	       	   	BORDER-BOTTOM: #939393 1px solid
+   	       	   	}
+   	       	  .ms-actionsep
+   	       	   {
+   	       	   	BORDER-RIGHT: #939393 1px solid}
+   	       	  .ms-topnavContainer 
+   	       	  {
+   	       	  	BORDER-LEFT: #dbdbdb 1px solid}
+   	       	  .ms-topnav 
+   	       	  {
+   	       	  	BORDER-RIGHT: #dbdbdb 1px solid;
+   	       	  	BORDER-TOP: #dbdbdb 1px solid;
+   	       	  	BACKGROUND-IMAGE: url(topnavunselected_stforum.gif);
+   	       	  	BORDER-LEFT: #dbdbdb 1px solid;
+   	       	  	COLOR: #5b5b5b;
+   	       	  	BORDER-BOTTOM: #dbdbdb 1px solid;
+   	       	  	BACKGROUND-COLOR: #dbdbdb}
+   	       	  .ms-topnavselected
+   	       	   {
+   	       	   	BORDER-RIGHT: #9e9e9e 1px solid;
+   	       	   	BORDER-TOP: #9e9e9e 1px solid;
+   	       	   	BACKGROUND: url(topnavselected_stforum.gif) #9e9e9e;
+   	       	   	BORDER-LEFT: #9e9e9e 1px solid;
+   	       	   	COLOR: #276cff;
+   	       	   	BORDER-BOTTOM: #9e9e9e 1px solid}
+   	       	  .ms-topnavselected A 
+   	       	  {
+   	       	  	COLOR: #276cff}
+   	       	  .ms-topNavHover
+   	       	   {
+   	       	   	BORDER-RIGHT: #9e9e9e 1px solid;
+   	       	   	BORDER-TOP: #9e9e9e 1px solid;	
+   	       	   	BACKGROUND-IMAGE: url(topnavhover_stforum.gif);	
+   	       	   	BORDER-LEFT: #9e9e9e 1px solid;	
+   	       	   	COLOR: #276cff;	
+   	       	   	BORDER-BOTTOM: #9e9e9e 1px solid;	
+   	       	   	BACKGROUND-COLOR: #ffd233}
+   	       	   	.ms-topNavFlyOutsContainer 	
+   	       	   	{
+   	       	   	BORDER-RIGHT: #dbdbdb 1px solid;	
+   	       	   	BORDER-TOP: #dbdbdb 1px solid;	
+   	       	   	BORDER-LEFT: #dbdbdb 1px solid;	
+   	       	   	BORDER-BOTTOM: #dbdbdb 1px solid}
+   	       	   	.ms-topNavFlyOuts 	
+   	       	   	{
+   	       	   	BACKGROUND-COLOR: #f9f9f9 !important}
+   	       	   	.ms-topNavFlyOuts A 	
+   	       	   	{
+   	       	   	COLOR: #5b5b5b}
+   	       	   	.ms-topNavFlyOutsHover 	
+   	       	   	{
+   	       	   	BACKGROUND-COLOR: #ffd233 !important}
+   	       	   	.ms-quicklaunchnavsep 	
+   	       	   	{
+   	       	   	BACKGROUND-COLOR: #a8a8a8}
+   	       	   	.ms-quicklaunch TABLE TD 	
+   	       	   	{
+   	       	   	BORDER-TOP: #d1d1d1 1px solid}
+   	       	   	.ms-quicklaunch TABLE.ms-navheader TD 	
+   	       	   	{
+   	       	   	BORDER-TOP: #f9f9f9 1px solid;	
+   	       	   	BORDER-LEFT: #f9f9f9 1px solid;	
+   	       	   	BACKGROUND-COLOR: #e5e5e5}
+   	       	   	.ms-navheader2 TD 	
+   	       	   	{
+   	       	   	BORDER-TOP: #f9f9f9 1px solid;	
+   	       	   	BORDER-LEFT: #f9f9f9 1px solid;	
+   	       	   	BACKGROUND-COLOR: #e5e5e5}
+   	       	   	.ms-quicklaunch SPAN.ms-navheader 	
+   	       	   	{
+   	       	   	BORDER-TOP: #f9f9f9 1px solid;	
+   	       	   	BORDER-LEFT: #f9f9f9 1px solid;	
+   	       	   	BACKGROUND-COLOR: #e5e5e5}
+   	       	   	.ms-quicklaunch SPAN.ms-navheader 	
+   	       	   	{
+   	       	   	BORDER-TOP: #d1d1d1 1px solid;	
+   	       	   	BORDER-LEFT: #f9f9f9 1px solid;	
+   	       	   	BORDER-BOTTOM: #b2b2b2 1px solid;	
+   	       	   	BACKGROUND-COLOR: #efefef}
+   	       	   	.ms-quicklaunch TABLE.ms-selectednav 	
+   	       	   	{
+   	       	   	BORDER-RIGHT: #cc9f00 1px solid;	
+   	       	   	BORDER-TOP: #cc9f00 1px solid;	
+   	       	   	BACKGROUND-IMAGE: url(viewselectorgrad_stforum.gif);	
+   	       	   	BORDER-LEFT: #cc9f00 1px solid;	
+   	       	   	BORDER-BOTTOM: #cc9f00 1px solid;	
+   	       	   	BACKGROUND-COLOR: #ffd233}
+   	       	   	.ms-quicklaunch TABLE.ms-selectednav TD 	
+   	       	   	{
+   	       	   	BACKGROUND: url(selectednavbullet_stforum.gif) no-repeat}
+   	       	   	.ms-quicklaunch TABLE.ms-selectednavheader TD 	
+   	       	   	{
+   	       	   	BACKGROUND: url(viewselectorgrad_stforum.gif) #ffd233}
+   	       	   	TABLE.ms-navitem 	
+   	       	   	{
+   	       	   	BACKGROUND: url(navBullet_stforum.gif) no-repeat}
+   	       	   	SPAN.ms-navitem 	
+   	       	   	{
+   	       	   	BACKGROUND: url(navBullet_stforum.gif) no-repeat}
+   	       	   	.ms-treeviewouter TD.ms-navitem 	
+   	       	   	{
+   	       	   	BORDER-RIGHT: medium none;	
+   	       	   	PADDING-RIGHT: 4px;	
+   	       	   	BORDER-TOP: medium none;	
+   	       	   	PADDING-LEFT: 4px;	
+   	       	   	PADDING-BOTTOM: 0px;	
+   	       	   	BORDER-LEFT: medium none;	
+   	       	   	PADDING-TOP: 0px;	
+   	       	   	BORDER-BOTTOM: medium none}
+   	       	   	DIV.ms-treeviewouter DIV 	
+   	       	   	{
+   	       	   	BORDER-TOP: medium none}
+   	       	   	.ms-navsubmenu1 	
+   	       	   	{
+   	       	   	BACKGROUND-COLOR: #f9f9f9}
+   	       	   	.ms-navsubmenu2 	
+   	       	   	{
+   	       	   	BACKGROUND-COLOR: #f9f9f9}
+   	       	   	TABLE.ms-navselected 	
+   	       	   	{
+   	       	   	BACKGROUND-IMAGE: url(SELECTEDNAV_stforum.GIF);	
+   	       	   	BACKGROUND-REPEAT: repeat-x;	
+   	       	   	BACKGROUND-COLOR: #fff3c6}
+   	       	   	SPAN.ms-navselected 	
+   	       	   	{
+   	       	   	BACKGROUND-IMAGE: url(SELECTEDNAV_stforum.GIF);	
+   	       	   	BACKGROUND-REPEAT: repeat-x;	
+   	       	   	BACKGROUND-COLOR: #fff3c6}
+   	       	   	TABLE.ms-navselected TD 	
+   	       	   	{
+   	       	   	BACKGROUND-IMAGE: url(navBullet_stforum.gif)}
+   	       	   	.ms-navheader A 	
+   	       	   	{
+   	       	   	COLOR: #276cff}
+   	       	   	.ms-navheader2 A 	
+   	       	   	{
+   	       	   	COLOR: #276cff}
+   	       	   	.ms-navItem A 	
+   	       	   	{
+   	       	   		COLOR: #276cff}
+   	       	   	.ms-quicklaunchouter 	
+   	       	   	{
+   	       	   	BORDER-RIGHT: #a8a8a8 1px solid;	
+   	       	   	BORDER-BOTTOM: #a8a8a8 1px solid}
+   	       	   	TABLE.ms-recyclebin TD 	
+   	       	   	{
+   	       	   	BACKGROUND-COLOR: #f9f9f9}
+   	       	   	.ms-quickLaunch 	
+   	       	   	{
+   	       	   	BORDER-RIGHT: #b2b2b2 1px solid;	
+   	       	   	BORDER-TOP: #b2b2b2 1px solid;	
+   	       	   	BORDER-LEFT: #b2b2b2 1px solid;	
+   	       	   	BORDER-BOTTOM: #b2b2b2 1px solid;	
+   	       	   	BACKGROUND-COLOR: #f9f9f9}
+   	       	   	.ms-quicklaunchheader 	
+   	       	   	{
+   	       	   		BORDER-TOP: #efefef 1px solid;	
+   	       	   		BACKGROUND-IMAGE: url(quickLaunchHeader_stforum.gif);	
+   	       	   		BORDER-LEFT: #e5e5e5 1px solid;	
+   	       	   		COLOR: #276cff;	
+   	       	   		BACKGROUND-COLOR: #d2d2d2}
+   	       	   	.ms-quicklaunchheader A 	
+   	       	   	{
+   	       	   	COLOR: #276cff}
+   	       	   	.ms-unselectednav A 	
+   	       	   	{
+   	       	   	COLOR: #276cff}
+   	       	   	.ms-navwatermark 	
+   	       	   	{
+   	       	   	COLOR: #cc9f00}
+   	       	   	.ms-selectednav 	
+   	       	   	{
+   	       	   	BORDER-RIGHT: #276cff 1px solid;	
+   	       	   	BORDER-TOP: #276cff 1px solid;	
+   	       	   	BORDER-LEFT: #276cff 1px solid;	
+   	       	   	BORDER-BOTTOM: #276cff 1px solid}
+   	       	   	.ms-GRSortFilter 	
+   	       	   	{
+   	       	   		BORDER-RIGHT: #276cff 1px solid;	
+   	       	   		BORDER-TOP: #276cff 1px solid;	
+   	       	   		BORDER-LEFT: #276cff 1px solid;	
+   	       	   		BORDER-BOTTOM: #276cff 1px solid}
+   	       	   	.ms-unselectednav 	
+   	       	   	{
+   	       	   		BORDER-RIGHT: #a8a8a8 1px solid;	
+   	       	   		BORDER-TOP: #a8a8a8 1px solid;	
+   	       	   		BORDER-LEFT: #a8a8a8 1px solid;	
+   	       	   		BORDER-BOTTOM: #a8a8a8 1px solid}
+   	       	   .ms-templatepickerunselected DIV 	
+   	       	   {
+   	       	   	BACKGROUND-IMAGE: url(templatepickerunselected_stforum.gif)}
+   	       	   .ms-templatepickerselected DIV 	
+   	       	   {
+   	       	   	BORDER-RIGHT: #342900 1px solid;	
+   	       	   	BORDER-TOP: #342900 1px solid;	
+   	       	   	BACKGROUND-IMAGE: url(templatepickerselected_stforum.gif);	
+   	       	   	BORDER-LEFT: #342900 1px solid;	
+   	       	   	BORDER-BOTTOM: #342900 1px solid}
+   	       	   	.ms-laction 	
+   	       	   	{
+   	       	   		BACKGROUND-IMAGE: url(seealsograd_stforum.gif)}
+   	       	   	.ms-lactionitem A 	
+   	       	   	{
+   	       	   		COLOR: #276cff}
+   	       	   	.ms-diffselected 	
+   	       	   	{
+   	       	   		BORDER-RIGHT: #665000 1px solid;	
+   	       	   		BORDER-TOP: #665000 1px solid;	
+   	       	   		BORDER-LEFT: #665000 1px solid;	
+   	       	   		BORDER-BOTTOM: #665000 1px solid;	
+   	       	   		BACKGROUND-COLOR: #ffe6a0}
+   	       	   	.ms-verticaldots 	
+   	       	   	{
+   	       	   		BORDER-RIGHT: #a8a8a8 1px solid}
+   	       	   	.ms-nav 	
+   	       	   	{
+   	       	   		BACKGROUND-IMAGE: url(navshape_stforum.jpg);	
+   	       	   		BACKGROUND-COLOR: #a8a8a8}
+   	       	   	.ms-relatedtext 	
+   	       	   	{
+   	       	   		COLOR: #276cff}
+   	       	   	.ms-relatedtext A:visited 	
+   	       	   	{
+   	       	   		COLOR: #276cff}
+   	       	   	.ms-relatedtext A:link 	
+   	       	   	{
+   	       	   		COLOR: #276cff}
+   	       	   	.ms-relatedtext A:active 	
+   	       	   	{
+   	       	   		COLOR: #276cff}
+   	       	   	.ms-relatedtext A:hover 	
+   	       	   	{
+   	       	   		COLOR: #276cff}
+   	       	   	.ms-globalTitleArea 	
+   	       	   	{
+   	       	   		BACKGROUND-IMAGE: url(siteTitleBKGD_stforum.gif)}
+   	       	   	.ms-globalTitleAreaSeparator 	
+   	       	   	{
+   	       	   		BACKGROUND-IMAGE: url(siteTitleBKGD_stforum.gif)}
+   	       	   	.ms-titlearea A 	
+   	       	   	{
+   	       	   		COLOR: #276cff}
+   	       	   	.ms-titlearealeft 	
+   	       	   	{
+   	       	   		BACKGROUND-COLOR: #ffffff}
+   	       	   	TD.ms-titleareaframe 	
+   	       	   	{
+   	       	   		BACKGROUND-IMAGE: url(pageTitleBKGD_stforum.gif);	
+   	       	   		BACKGROUND-COLOR: #ffffff}
+   	       	   	DIV.ms-titleareaframe 	
+   	       	   	{
+   	       	   		BACKGROUND-IMAGE: url(pageTitleBKGD_stforum.gif);	
+   	       	   		BACKGROUND-COLOR: #ffffff}
+   	       	   	.ms-pagetitleareaframe 	
+   	       	   	{
+   	       	   		BACKGROUND-IMAGE: url(pageTitleBKGD_stforum.gif);	
+   	       	   		BACKGROUND-COLOR: #ffffff}
+   	       	   	.ms-mwspagetitleareaframe 	
+   	       	   	{
+   	       	   		BACKGROUND-IMAGE: url(pageTitleBKGD_stforum.gif);	
+   	       	   		BACKGROUND-COLOR: #ffffff}
+   	       	   	TD.ms-titlearearight DIV.ms-titleareaframe 	
+   	       	   	{
+   	       	   		BACKGROUND-IMAGE: url(pageTitleBKGD_stforum.gif);	
+   	       	   		HEIGHT: 100%;	
+   	       	   		BACKGROUND-COLOR: #ffffff}
+   	       	   	.ms-pagetitleareaframe TABLE 	
+   	       	   	{
+   	       	   		BACKGROUND-IMAGE: none}
+   	       	   	.ms-titlearealine 	
+   	       	   	{
+   	       	   		BACKGROUND-COLOR: #a8a8a8}
+   	       	   	.ms-mwstitlearealine 	
+   	       	   	{
+   	       	   		BACKGROUND-COLOR: #e5e5e5}
+   	       	   	.ms-titleareaseparator 	
+   	       	   	{
+   	       	   		BACKGROUND-COLOR: #a8a8a8}
+   	       	   	.ms-titleareaseparator DIV 	
+   	       	   	{
+   	       	   		BORDER-TOP: #939393 1px solid;	
+   	       	   		BACKGROUND-COLOR: #e5e5e5}
+   	       	   	.ms-areaseparatorcorner 	
+   	       	   	{
+   	       	   		BORDER-RIGHT: #939393 1px solid;	
+   	       	   		BACKGROUND-IMAGE: url(framecornergrad_stforum.gif)}
+   	       	   	TD.ms-areaseparatorleft 	
+   	       	   	{
+   	       	   		BORDER-RIGHT: #939393 1px solid;	
+   	       	   		BACKGROUND: url(pageTitleBKGD_stforum.gif) #e5e5e5 repeat-x}
+   	       	   	DIV.ms-areaseparatorleft 	
+   	       	   	{
+   	       	   		BORDER-RIGHT: #939393 1px solid;	
+   	       	   		BACKGROUND: url(navshape_stforum.jpg) #a8a8a8 no-repeat -142px 0px;	
+   	       	   		HEIGHT: 100%}
+   	       	   	DIV.ms-areaseparatorright 	
+   	       	   	{
+   	       	   		BACKGROUND: url(pagebackgrad_stforum.gif) #a8a8a8 repeat-x;	
+   	       	   		BORDER-LEFT: #939393 1px solid}
+   	       	   	.ms-titlearearight .ms-areaseparatorright 	
+   	       	   	{
+   	       	   		BACKGROUND: url(pageTitleBKGD_stforum.gif) #e5e5e5 repeat-x;	
+   	       	   		BORDER-LEFT: #939393 1px solid}
+   	       	   	.ms-areaseparator 	
+   	       	   	{
+   	       	   		BACKGROUND-IMAGE: url(formtitlegrad_stforum.gif);	
+   	       	   		BACKGROUND-COLOR: #e2ebff}
+   	       	   	.ms-pagemargin 	
+   	       	   	{
+   	       	   		BACKGROUND-POSITION: -143px 0px;	
+   	       	   		BACKGROUND-IMAGE: url(navshape_stforum.jpg);	
+   	       	   		BACKGROUND-COLOR: #a8a8a8}
+   	       	   	TD.ms-rightareacell DIV.ms-pagemargin 	
+   	       	   	{
+   	       	   		BACKGROUND-IMAGE: url(pagebackgrad_stforum.gif);	
+   	       	   		BORDER-LEFT: #a8a8a8 1px solid;	
+   	       	   		BACKGROUND-REPEAT: repeat-x;	
+   	       	   		BACKGROUND-COLOR: #a8a8a8}
+   	       	   	.ms-pagebottommargin 	
+   	       	   	{
+   	       	   		BACKGROUND: #ffffff}
+   	       	   	.ms-pagebottommarginleft 	
+   	       	   	{
+   	       	   		BACKGROUND: #ffffff}
+   	       	   	.ms-pagebottommarginright 	
+   	       	   	{
+   	       	   		BACKGROUND: #ffffff}
+   	       	   	.ms-bodyareapagemargin 	
+   	       	   	{
+   	       	   		BORDER-TOP: #939393 0px solid;	
+   	       	   		BACKGROUND: #ffffff}
+   	       	   	.ms-selected 	
+   	       	   	{
+   	       	   		BORDER-TOP: #a8a8a8 1px solid;	
+   	       	   		BACKGROUND-IMAGE: url(filedialogselected_stforum.gif);	
+   	       	   		BORDER-BOTTOM: #a8a8a8 1px solid;	
+   	       	   		BACKGROUND-COLOR: #a8a8a8}
+   	       	   	.ms-separator IMG 	
+   	       	   	{
+   	       	   		BORDER-RIGHT: #ffffff 1px solid;	
+   	       	   		BACKGROUND: #8db2ff;	
+   	       	   		BORDER-BOTTOM: #ffffff 1px solid}
+   	       	   	.ms-authoringcontrols 	
+   	       	   	{
+   	       	   		COLOR: #2d2d2d;	
+   	       	   		BACKGROUND-COLOR: #efefef}
+   	       	   	.ms-propertysheet TH.ms-authoringcontrols 	
+   	       	   	{
+   	       	   		BACKGROUND-COLOR: #efefef}
+   	       	   	.ms-sectionheader 	
+   	       	   	{
+   	       	   		COLOR: #2d2d2d}
+   	       	   	TD.ms-linksectionheader 	
+   	       	   	{
+   	       	   		BORDER-RIGHT: #a3c1ff 1px solid;	
+   	       	   		BORDER-TOP: #a3c1ff 1px solid;	
+   	       	   		BACKGROUND-IMAGE: url(linksectiongrad_stforum.gif);	
+   	       	   		BORDER-LEFT: #a3c1ff 1px solid;	
+   	       	   		COLOR: #000000;	
+   	       	   		BORDER-BOTTOM: #a3c1ff 1px solid;	
+   	       	   		BACKGROUND-COLOR: #efefef}
+   	       	   	TH.ms-linksectionheader 	
+   	       	   	{
+   	       	   		BORDER-RIGHT: #a3c1ff 1px solid;	
+   	       	   		BORDER-TOP: #a3c1ff 1px solid;	
+   	       	   		BACKGROUND-IMAGE: url(linksectiongrad_stforum.gif);	
+   	       	   		BORDER-LEFT: #a3c1ff 1px solid;	
+   	       	   		COLOR: #000000;	
+   	       	   		BORDER-BOTTOM: #a3c1ff 1px solid;	
+   	       	   		BACKGROUND-COLOR: #efefef}
+   	       	   	.ms-sectionheader A 	
+   	       	   	{
+   	       	   		COLOR: #2d2d2d}
+   	       	   	.ms-sectionheader A:hover 	
+   	       	   	{
+   	       	   		COLOR: #2d2d2d}
+   	       	   	.ms-sectionheader A:visited 	
+   	       	   	{
+   	       	   		COLOR: #2d2d2d}
+   	       	   	.ms-partline 	
+   	       	   	{
+   	       	   		BACKGROUND-COLOR: #d1d1d1}
+   	       	   	.ms-propertysheet A 	
+   	       	   	{
+   	       	   		COLOR: #276cff}
+   	       	   	TABLE.ms-pageinformation 	
+   	       	   	{
+   	       	   		BORDER-BOTTOM: #939393 1px solid}
+   	       	   	TABLE.ms-createpageinformation 	
+   	       	   	{
+   	       	   		BORDER-BOTTOM: #939393 1px solid}
+   	       	   	TABLE.ms-pageinformation 	
+   	       	   	{
+   	       	   		BACKGROUND-IMAGE: url(settingsgraphic_stforum.jpg);	
+   	       	   		BACKGROUND-REPEAT: repeat-x;	
+   	       	   		BACKGROUND-COLOR: #ffffff}
+   	       	   	TABLE.ms-createpageinformation 	
+   	       	   	{
+   	       	   		BACKGROUND-IMAGE: url(creategraphic_stforum.jpg)}
+   	       	   	.ms-pageinformation TH 	
+   	       	   	{
+   	       	   		COLOR: #444444}
+   	       	   	.ms-createpageinformation TH 	
+   	       	   	{
+   	       	   		COLOR: #444444}
+   	       	   	.ms-storMeUsed 	
+   	       	   	{
+   	       	   		BACKGROUND: #a8a8a8}
+   	       	   	.ms-storMeFilterBar 	
+   	       	   	{
+   	       	   		BACKGROUND: #a8a8a8}
+   	       	   	.ms-storMeEstimated 	
+   	       	   	{
+   	       	   		BACKGROUND-COLOR: #a8a8a8}
+   	       	   	.ms-informationtablehover 	
+   	       	   	{
+   	       	   		BORDER-RIGHT: #d1d1d1 1px solid;	
+   	       	   		BORDER-TOP: #d1d1d1 1px solid;	
+   	       	   		BORDER-LEFT: #d1d1d1 1px solid;	
+   	       	   		BORDER-BOTTOM: #d1d1d1 1px solid}
+   	       	   	.ms-informationtablehover TD 	
+   	       	   	{
+   	       	   		BACKGROUND-COLOR: #efefef}
+   	       	   	.ms-informationtablehover TH 	
+   	       	   	{
+   	       	   		BACKGROUND-COLOR: #efefef}
+   	       	   	.ms-informationtablestatic 	
+   	       	   	{
+   	       	   		BACKGROUND-IMAGE: url(settingsbkg_stforum.jpg)}
+   	       	   	.ms-itemheader A 	
+   	       	   	{
+   	       	   		COLOR: #276cff}
+   	       	   	.ms-listdescription 	
+   	       	   	{
+   	       	   		BORDER-BOTTOM: #939393 1px solid}
+   	       	   	.ms-alternating .ms-unselectedtitle 	
+   	       	   	{
+   	       	   		BACKGROUND: none transparent scroll repeat 0% 0%}
+   	       	   	.ms-alternating .ms-vb-user TABLE 	
+   	       	   	{
+   	       	   		BACKGROUND: none transparent scroll repeat 0% 0%}
+   	       	   	.ms-vh 	
+   	       	   	{
+   	       	   		BACKGROUND-IMAGE: url(viewheadergrad_stforum.gif);	
+   	       	   		BORDER-LEFT: medium none;	
+   	       	   		BACKGROUND-COLOR: #efefef}
+   	       	   	.ms-vh2 	
+   	       	   	{
+   	       	   		BACKGROUND-IMAGE: url(viewheadergrad_stforum.gif);	
+   	       	   		BORDER-LEFT: medium none;	
+   	       	   		BACKGROUND-COLOR: #efefef}
+   	       	   	.ms-vh-icon 	
+   	       	   	{
+   	       	   		BACKGROUND-IMAGE: url(viewheadergrad_stforum.gif);	
+   	       	   		BORDER-LEFT: medium none;	
+   	       	   		BACKGROUND-COLOR: #efefef}
+   	       	   	.ms-vh2-nofilter 	
+   	       	   	{
+   	       	   		BACKGROUND-IMAGE: url(viewheadergrad_stforum.gif);	
+   	       	   		BORDER-LEFT: medium none;	
+   	       	   		BACKGROUND-COLOR: #efefef}
+   	       	   	.ms-vh2-nofilter-icon 	
+   	       	   	{
+   	       	   		BACKGROUND-IMAGE: url(viewheadergrad_stforum.gif);	
+   	       	   		BORDER-LEFT: medium none;	
+   	       	   		BACKGROUND-COLOR: #efefef}
+   	       	   	.ms-viewheadertr .ms-vh-group 	
+   	       	   	{
+   	       	   		BACKGROUND-IMAGE: url(viewheadergrad_stforum.gif);	
+   	       	   		BORDER-LEFT: medium none;	
+   	       	   		BACKGROUND-COLOR: #efefef}
+   	       	   	.ms-vh2-nograd 	
+   	       	   	{
+   	       	   		BACKGROUND-IMAGE: url(viewheadergrad_stforum.gif);	
+   	       	   		BORDER-LEFT: medium none;	
+   	       	   		BACKGROUND-COLOR: #efefef}
+   	       	   	.ms-vh2-nograd-icon 	
+   	       	   	{
+   	       	   		BACKGROUND-IMAGE: url(viewheadergrad_stforum.gif);	
+   	       	   		BORDER-LEFT: medium none;	
+   	       	   		BACKGROUND-COLOR: #efefef}
+   	       	   	.ms-gb 	
+   	       	   	{
+   	       	   		BORDER-TOP: #939393 1px solid;	
+   	       	   		BORDER-BOTTOM: #939393 1px solid}
+   	       	   	.ms-vb A 	
+   	       	   	{
+   	       	   		COLOR: #276cff}
+   	       	   	.ms-vb2 A 	
+   	       	   	{
+   	       	   		COLOR: #276cff}
+   	       	   	.ms-GRStatusText A 	
+   	       	   	{
+   	       	   		COLOR: #276cff}
+   	       	   	.ms-vb-user A 
+   	       	   	{
+   	       	   		COLOR: #276cff}
+   	       	   	.ms-disc A 	
+   	       	   	{
+   	       	   		COLOR: #276cff}
+   	       	   	A.ms-addnew 	
+   	       	   	{
+   	       	   		COLOR: #276cff}
+   	       	   	.ms-summarytitlebarframe 	
+   	       	   	{
+   	       	   		BACKGROUND-COLOR: #276cff}
+   	       	   	IMG.thumbnail 	
+   	       	   	{
+   	       	   		BORDER-RIGHT: #a8a8a8 3px solid;	
+   	       	   		BORDER-TOP: #a8a8a8 3px solid;	
+   	       	   		BORDER-LEFT: #a8a8a8 3px solid;	
+   	       	   		BORDER-BOTTOM: #a8a8a8 3px solid}
+   	       	   	.ms-imglibthumbnail 	
+   	       	   	{
+   	       	   		BORDER-RIGHT: #a8a8a8 0px solid;	
+   	       	   		BORDER-TOP: #a8a8a8 0px solid;	
+   	       	   		BORDER-LEFT: #a8a8a8 0px solid;	
+   	       	   		BORDER-BOTTOM: #a8a8a8 0px solid;	
+   	       	   		BACKGROUND-COLOR: #d8d8d8}
+   	       	   	.ms-imglibmenuarea 	
+   	       	   	{
+   	       	   		BACKGROUND-COLOR: #f9f9f9}
+   	       	   	.UserCaption 	
+   	       	   	{
+   	       	   		BACKGROUND-COLOR: #e5e5e5}
+   	       	   	.UserDottedLine 	
+   	       	   	{
+   	       	   		BACKGROUND-IMAGE: url(dot_stforum.gif);	
+   	       	   		BACKGROUND-COLOR: #276cff}
+   	       	   	.UserToolbarTextArea A:link 	
+   	       	   	{
+   	       	   		COLOR: #276cff}
+   	       	   	.UserToolbarTextArea A:visited 	
+   	       	   	{
+   	       	   		COLOR: #276cff}
+   	       	   	.UserCaptionShadow 	
+   	       	   	{
+   	       	   		BORDER-RIGHT: #d1d1d1 1px solid;	
+   	       	   		BACKGROUND-IMAGE: url(viewheadergrad_stforum.gif);	
+   	       	   		BORDER-LEFT: #d1d1d1 1px solid}
+   	       	   	.UserToolbar 	
+   	       	   	{
+   	       	   		BACKGROUND-IMAGE: url(topnavunselected_stforum.gif);	
+   	       	   		BORDER-BOTTOM: #939393 1px solid}
+   	       	   	.UserCellHover 	
+   	       	   	{
+   	       	   		BORDER-RIGHT: #276cff 1px solid;	
+   	       	   		BORDER-TOP: #276cff 1px solid;	
+   	       	   		BORDER-LEFT: #276cff 1px solid;	
+   	       	   		BORDER-BOTTOM: #276cff 1px solid}
+   	       	   	.UserCellSelected 	
+   	       	   	{
+   	       	   		BORDER-RIGHT: #665000 1px solid;	
+   	       	   		BORDER-TOP: #665000 1px solid;	
+   	       	   		BACKGROUND-IMAGE: url(selectednav_stforum.gif);	
+   	       	   		BORDER-LEFT: #665000 1px solid;	
+   	       	   		BORDER-BOTTOM: #665000 1px solid;	
+   	       	   		BACKGROUND-COLOR: #cc9f00}
+   	       	   		.UserCell {	COLOR: #276cff}
+   	       	   	.ms-ToolPaneFrame 	
+   	       	   	{
+   	       	   		BORDER-RIGHT: #939393 2px solid;	
+   	       	   		BORDER-TOP: #939393 1px solid}.
+   	       	   	ms-ToolPaneHeader 	
+   	       	   	{
+   	       	   		BACKGROUND-COLOR: #276cff}
+   	       	   	.ms-ToolPaneBorder 	
+   	       	   	{
+   	       	   		BORDER-RIGHT: #d1d1d1 1px solid;	
+   	       	   		BORDER-LEFT: #d1d1d1 1px solid}
+   	       	   	.ms-ToolPaneClose 	
+   	       	   	{
+   	       	   		BORDER-TOP: #e5e5e5 1px solid;	
+   	       	   		BACKGROUND-IMAGE: url(topnavselected_stforum.gif);	
+   	       	   		BORDER-BOTTOM: #a8a8a8 1px solid;	
+   	       	   		BACKGROUND-COLOR: #9e9e9e}
+   	       	   	.ms-ToolPaneTitle 	
+   	       	   	{
+   	       	   		BORDER-TOP: #e5e5e5 1px solid;	
+   	       	   		BACKGROUND-IMAGE: url(topnavselected_stforum.gif);	
+   	       	   		BORDER-LEFT: #e5e5e5 1px solid;	
+   	       	   		BORDER-BOTTOM: #a8a8a8 1px solid;	
+   	       	   		BACKGROUND-COLOR: #9e9e9e}
+   	       	   		.ms-ToolPaneInfo 	
+   	       	   		{
+   	       	   			BACKGROUND-COLOR: #444444}
+   	       	   		.ms-ToolStripSelected 	
+   	       	   		{
+   	       	   			BORDER-TOP: #f9f9f9 1px solid;	
+   	       	   			BACKGROUND-IMAGE: url(menubuttonhover_stforum.gif);	
+   	       	   			BORDER-BOTTOM: #e5e5e5 1px solid}
+   	       	   		.ms-ToolStrip 	
+   	       	   		{
+   	       	   			BORDER-TOP: #f9f9f9 1px solid;	
+   	       	   			BACKGROUND-IMAGE: url(listheadergrad_stforum.gif);	
+   	       	   			BORDER-BOTTOM: #e5e5e5 1px solid;	
+   	       	   			BACKGROUND-COLOR: #dfe9ff}
+   	       	   		.ms-TPHeader 	
+   	       	   		{
+   	       	   			BACKGROUND-COLOR: #cc9f00}
+   	       	   		.ms-TPBody A:link {	COLOR: #276cff}
+   	       	   		.ms-TPBody A:visited 	
+   	       	   		{
+   	       	   			COLOR: #276cff}
+   	       	   		.ms-TPBody A:hover {	COLOR: #276cff}
+   	       	   		.ms-PropGridBuilderButton 	
+   	       	   		{
+   	       	   			BORDER-RIGHT: #276cff 1px solid;	
+   	       	   			BORDER-TOP: #276cff 1px solid;	
+   	       	   			BORDER-LEFT: #276cff 1px solid;	
+   	       	   			BORDER-BOTTOM: #276cff 1px solid;	
+   	       	   			BACKGROUND-COLOR: #d1d1d1}
+   	       	   		.ms-WPDesign {	BACKGROUND-COLOR: #d1d1d1}
+   	       	   		.ms-WPMenu {	BACKGROUND-COLOR: #d1d1d1}
+   	       	   		.ms-WPBody A:link {	COLOR: #276cff}
+   	       	   		.ms-WPBody A:visited {	COLOR: #276cff}
+   	       	   		.ms-WPBorder 	
+   	       	   		{
+   	       	   			BORDER-LEFT-COLOR: #bcbcbc;	
+   	       	   			BORDER-BOTTOM-COLOR: #bcbcbc;	
+   	       	   			BORDER-TOP-COLOR: #bcbcbc;	
+   	       	   			BORDER-RIGHT-COLOR: #bcbcbc}
+   	       	   		.ms-WPBorderBorderOnly 	
+   	       	   		{
+   	       	   			BORDER-LEFT-COLOR: #bcbcbc;	
+   	       	   			BORDER-BOTTOM-COLOR: #bcbcbc;	
+   	       	   			BORDER-TOP-COLOR: #bcbcbc;	
+   	       	   			BORDER-RIGHT-COLOR: #bcbcbc}
+   	       	   		.ms-HoverCellActive 	
+   	       	   		{
+   	       	   			BORDER-RIGHT: #939393 1px solid;	
+   	       	   			BORDER-TOP: #939393 1px solid;	
+   	       	   			BACKGROUND-IMAGE: url(menubuttonhover_stforum.gif);	
+   	       	   			BORDER-LEFT: #939393 1px solid;	
+   	       	   			BORDER-BOTTOM: #939393 1px solid;	
+   	       	   			BACKGROUND-COLOR: #ffd233}
+   	       	   		.ms-SpLinkButtonActive 	
+   	       	   		{
+   	       	   			BORDER-RIGHT: #939393 1px solid;	
+   	       	   			BORDER-TOP: #939393 1px solid;	
+   	       	   			BACKGROUND-IMAGE: url(menubuttonhover_stforum.gif);	
+   	       	   			BORDER-LEFT: #939393 1px solid;	
+   	       	   			BORDER-BOTTOM: #939393 1px solid;	
+   	       	   			BACKGROUND-COLOR: #ffd233}
+   	       	   		.ms-HoverCellActiveDark 	
+   	       	   		{
+   	       	   			BORDER-RIGHT: #cc9f00 1px solid;	
+   	       	   			BORDER-TOP: #cc9f00 1px solid;	
+   	       	   			BORDER-LEFT: #cc9f00 1px solid;	
+   	       	   			BORDER-BOTTOM: #cc9f00 1px solid}
+   	       	   		.ms-SPLink {	COLOR: #276cff}
+   	       	   		.ms-WPHeader TD {	BORDER-BOTTOM: #276cff 1px solid}
+   	       	   		.ms-SPzone .ms-WPHeader TD 	
+   	       	   		{
+   	       	   			BACKGROUND-IMAGE: url(partgrad_stforum.gif);	
+   	       	   			BACKGROUND-COLOR: #f9f9f9}
+   	       	   		.ms-SPZoneSelected .ms-WPHeader TD 	
+   	       	   		{
+   	       	   			BACKGROUND-IMAGE: url(partgrad_stforum.gif);	
+   	       	   			BACKGROUND-COLOR: #f9f9f9}
+   	       	   		.ms-rtApplyBackground {	BACKGROUND-COLOR: #cc9f00}
+   	       	   		.ms-tbButtonMouseOverDown {	BACKGROUND-COLOR: #cc9f00}
+   	       	   		.ms-rtRemoveBackground 	
+   	       	   		{
+   	       	   			BORDER-RIGHT: #cc9f00 1px solid;	
+   	       	   			BORDER-TOP: #cc9f00 1px solid;	
+   	       	   			BORDER-LEFT: #cc9f00 1px solid;	
+   	       	   			BORDER-BOTTOM: #cc9f00 1px solid}
+   	       	   		.ms-tabselected 	
+   	       	   		{
+   	       	   			BORDER-LEFT-COLOR: #939393;	
+   	       	   			BACKGROUND-IMAGE: url(topnavselected_stforum.gif);
+   	       	   			BORDER-BOTTOM-COLOR: #939393;	
+   	       	   			COLOR: #276cff;	
+   	       	   			BORDER-TOP-COLOR: #939393;	
+   	       	   			BACKGROUND-COLOR: #9e9e9e;	
+   	       	   			BORDER-RIGHT-COLOR: #939393}
+   	       	   		.ms-tabinactive 	
+   	       	   		{
+   	       	   			BORDER-RIGHT: #dbdbdb 1px solid;	
+   	       	   			BACKGROUND-POSITION: 0px 5px;	
+   	       	   			BORDER-TOP: #dbdbdb 1px solid;	
+   	       	   			BACKGROUND-IMAGE: url(topnavunselected_stforum.gif);	
+   	       	   			BORDER-LEFT: #dbdbdb 1px solid;	
+   	       	   			COLOR: #276cff;	
+   	       	   			BORDER-BOTTOM: #dbdbdb 0px solid;	
+   	       	   			BACKGROUND-COLOR: #ffffff}
+   	       	   		.ms-tabinactive A:link {	COLOR: #276cff}
+   	       	   		.ms-tabinactive A:hover {	COLOR: #276cff}
+   	       	   		.ms-tabinactive A:visited {	COLOR: #276cff}
+   	       	   		.ms-surveyHBar 	
+   	       	   		{
+   	       	   			BORDER-LEFT-COLOR: #276cff;	
+   	       	   			BORDER-BOTTOM-COLOR: #276cff;	
+   	       	   			BORDER-TOP-COLOR: #276cff;	
+   	       	   			BACKGROUND-COLOR: #276cff;	
+   	       	   			BORDER-RIGHT-COLOR: #276cff}
+   	       	   		.ms-surveyVBar 	
+   	       	   		{
+   	       	   			BORDER-LEFT-COLOR: #276cff;	
+   	       	   			BORDER-BOTTOM-COLOR: #276cff;	
+   	       	   			BORDER-TOP-COLOR: #276cff;	
+   	       	   			BACKGROUND-COLOR: #276cff;	
+   	       	   			BORDER-RIGHT-COLOR: #276cff}
+   	       	   		.ms-surveyVBarBI {	BACKGROUND-COLOR: #276cff}
+   	       	   		.ms-uploadborder 	
+   	       	   		{
+   	       	   			BORDER-RIGHT: #a8a8a8 1px solid;	
+   	       	   			BORDER-TOP: #a8a8a8 1px solid;	
+   	       	   			BORDER-LEFT: #a8a8a8 1px solid;	
+   	       	   			BORDER-BOTTOM: #a8a8a8 1px solid}
+   	       	   		.ms-styleheader A:link {	COLOR: #276cff}
+   	       	   		.ms-stylebody A:link {	COLOR: #276cff}
+   	       	   		.ms-MWSInstantiated A:link {	COLOR: #276cff}
+   	       	   		.ms-MWSInstantiated A:visited {	COLOR: #276cff}
+   	       	   		.ms-MWSInstantiated A:hover {	COLOR: #a8a8a8}
+   	       	   		.ms-MWSUninstantiated A:link {	COLOR: #276cff}
+   	       	   		.ms-MWSUninstantiated A:visited {	COLOR: #276cff}
+   	       	   		.ms-MWSUninstantiated A:hover {	COLOR: #276cff}
+   	       	   		.ms-entity-unresolved {	BACKGROUND-IMAGE: url(squiggle_stforum.gif)}
+   	       	   		.ms-ganttTitleCell 	
+   	       	   		{
+   	       	   			BORDER-RIGHT: #e5e5e5 1px solid;	
+   	       	   			BORDER-TOP: #e5e5e5 1px solid;	
+   	       	   			BORDER-LEFT: #e5e5e5 1px solid;	
+   	       	   			BORDER-BOTTOM: #e5e5e5 1px solid}
+   	       	   		.ms-ganttTitleHeaderCell 	
+   	       	   		{
+   	       	   			BORDER-RIGHT: #e5e5e5 1px solid;	
+   	       	   			BORDER-TOP: #e5e5e5 1px solid;	
+   	       	   			BORDER-LEFT: #e5e5e5 1px solid;	
+   	       	   			COLOR: #727272;	BORDER-BOTTOM: #e5e5e5 1px solid}
+   	       	   		.ms-ganttMajorTimeUnitHeaderCell 	
+   	       	   		{
+   	       	   			BORDER-RIGHT: #e5e5e5 1px solid;	
+   	       	   			BORDER-LEFT: #e5e5e5 1px solid;	COLOR: #727272}
+   	       	   		.ms-ganttDetailTimeUnitRow TD 	
+   	       	   		{
+   	       	   			BORDER-RIGHT: #e5e5e5 1px solid;	
+   	       	   			BORDER-TOP: #e5e5e5 1px solid;	
+   	       	   			BORDER-LEFT: #e5e5e5 1px solid;	
+   	       	   			COLOR: #727272;	BORDER-BOTTOM: #e5e5e5 1px solid}
+   	       	   		.ms-consolemptablerow {	BACKGROUND-COLOR: #ffffff}
+   	       	   		.ms-consolestatuscell {	BACKGROUND-IMAGE: url(pageTitleBKGD_stforum.gif)}
+   	       	   		.ms-consoleframe 	
+   	       	   		{
+   	       	   			BORDER-LEFT-COLOR: #a8a8a8;	
+   	       	   			BORDER-BOTTOM-COLOR: #a8a8a8;	
+   	       	   			BORDER-TOP-COLOR: #a8a8a8;	
+   	       	   			BORDER-RIGHT-COLOR: #a8a8a8}
+   	       	   		.ms-consolestatusmajorframe {	BACKGROUND: url(cnspgrdn_stforum.gif)}
+   	       	   		.ms-consolestatusminorframe {	BACKGROUND: url(cnsugrdn_stforum.gif)}
+   	       	   		.ms-consolestatuscheckoutframe {	BACKGROUND: url(cnsugrdn_stforum.gif)}
+   	       	   		.ms-consolestatus A {	COLOR: #276cff}
+   	       	   		.ms-consolestatus A:hover {	COLOR: #276cff}
+   	       	   		.ms-consoleerror A {	COLOR: #276cff}
+   	       	   		.ms-consoleerror A:hover {	COLOR: #276cff}
+   	       	   		.ms-consolemessage {	COLOR: #444444}
+   	       	   		.ms-consoletoolbar {	COLOR: #276cff}
+   	       	   		.ms-consoleqaborderhhover {	BACKGROUND-COLOR: #665000}
+   	       	   		.ms-consoleqabordervhover {	BACKGROUND-COLOR: #665000}
+   	       	   		.ms-consoleqacornerhover {	BACKGROUND-COLOR: #665000}
+   	       	   		.ms-webpartpickerpagetext A {	COLOR: #276cff}
+   	       	   		.ms-webpartpickerpageHeaderBorder A {	COLOR: #276cff}
+   	       	   		.ms-wikieditouter 	
+   	       	   		{
+   	       	   			BORDER-RIGHT: #79a4ff 1px solid;	
+   	       	   			BORDER-TOP: #79a4ff 1px solid;	
+   	       	   			BORDER-LEFT: #79a4ff 1px solid;	
+   	       	   			BORDER-BOTTOM: medium none}
+   	       	   		.ms-wikieditthird {	BACKGROUND: url(toolgrad_stforum.gif)}
+   	       	   		.ms-wikitoolbar A.ms-toolbar {	COLOR: #276cff}
+   	       	   		.ms-diffinsert {	BACKGROUND-COLOR: #ffde67}
+   	       	   		.ms-PostTitle A {	COLOR: #276cff}
+   	       	   		.ms-PostFooter A {	COLOR: #276cff}
+   	       	   		.ms-PostFooter {	COLOR: #939393;	1px: }
+   	       	   		H1.ms-PostDate {	BORDER-BOTTOM: #276cff 1px solid}
+   	       	   		.ms-CategoryTitleCell A 	
+   	       	   		{
+   	       	   			BACKGROUND: url(navbullet_stforum.gif) no-repeat left top}
+   	       	   		.ms-MenuUIPopupBody TABLE {	COLOR: #276cff}
+   	       	   		.ms-MenuUI {	BACKGROUND-IMAGE: url(MGrad_stforum.gif)}
+   	       	   		.ms-MenuUILarge {	BACKGROUND-IMAGE: url(MGradLarge_stforum.gif)}
+   	       	   		.ms-MenuUIRtL {	BACKGROUND-IMAGE: url(MGradRtl_stforum.gif)}
+   	       	   		.ms-MenuUILargeRtL {	BACKGROUND-IMAGE: url(MGradLargeRtl_stforum.gif)}
+   	       	   		.ms-MenuUIItemTableCell {	COLOR: #276cff}
+   	       	   		.ms-MenuUIItemTableCellCompact {	COLOR: #276cff}
+   	       	   		.ms-MenuUIItemTableCell A {	COLOR: #276cff}
+   	       	   		.ms-MenuUIItemTableCellHover A {	COLOR: #276cff}
+   	       	   		.ms-MenuUIItemTableCellCompact A {	COLOR: #276cff}
+   	       	   		.ms-MenuUIItemTableCellCompactHover A {	COLOR: #276cff}
+   	       	   		.ms-menuitemdescription {	COLOR: #777777}
+   	       	   		.ms-MenuUIItemTableCellHover {	COLOR: #276cff}
+   	       	   		.ms-MenuUIItemTableCellCompactHover {	COLOR: #276cff}
+   	       	   		.ms-MenuUIItemTableHover 	
+   	       	   		{
+   	       	   			
+   	       	   			BORDER-RIGHT: #8db2ff 1px solid;	
+   	       	   			BORDER-TOP: #8db2ff 1px solid;	
+   	       	   			BORDER-LEFT: #8db2ff 1px solid;	
+   	       	   			BORDER-BOTTOM: #8db2ff 1px solid;	
+   	       	   			BACKGROUND-COLOR: #ffde67}
+   	       	   		.ms-MenuUIItemTableHover .ms-menuitemdescription {	COLOR: #333333}
+   	       	   		.ms-MenuUISeparator {	BACKGROUND-COLOR: #c5c5c5}
+   	       	   		.ms-MenuUISeparatorRtL {	BACKGROUND-COLOR: #c5c5c5}
+   	       	   		.ms-MenuUISeparatorLarge {	BACKGROUND-COLOR: #c5c5c5}
+   	       	   		.ms-MenuUISeparatorLargeRtl {	BACKGROUND-COLOR: #c5c5c5}
+   	       	   		.ms-menuimagecell {	BACKGROUND-COLOR: #ffde67}
+   	       	   		.ms-calheader {	BACKGROUND-COLOR: #e5e5e5}
+   	       	   		TD A.ms-cal-nav {	COLOR: #276cff}
+   	       	   		SPAN.ms-cal-nav A {	COLOR: #276cff}
+   	       	   		.ms-cal-weekempty {	BACKGROUND-COLOR: #e5e5e5}
+   	       	   		.ms-cal-weekemptyRTL {	BACKGROUND-COLOR: #e5e5e5}
+   	       	   		.ms-cal-weekname {	BACKGROUND-COLOR: #e5e5e5}
+   	       	   		.ms-cal-weekday {	BACKGROUND-COLOR: #e5e5e5}
+   	       	   		.ms-cal-week {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BACKGROUND-IMAGE: url(weekbox_stforum.gif);	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #dbdbdb}
+   	       	   		.ms-cal-weekB {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BACKGROUND-IMAGE: url(weekbox_stforum.gif);	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #dbdbdb}
+   	       	   		.ms-cal-weekRTL {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BACKGROUND-IMAGE: url(weekbox_stforum.gif);	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #dbdbdb}.ms-cal-weekRTLB {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BACKGROUND-IMAGE: url(weekbox_stforum.gif);	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #dbdbdb}.ms-cal-weekselected {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #e5e5e5}
+   	       	   		.ms-cal-weekselectedRTL {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #e5e5e5}.ms-cal-topday {	BORDER-RIGHT: #939393 1px solid;	BORDER-TOP: #939393 1px solid;	BACKGROUND-IMAGE: url(calnumBttn_stforum.gif);	BORDER-LEFT: #939393 1px solid;	BORDER-BOTTOM: #939393 1px solid;	BACKGROUND-COLOR: #e8e8e8}.ms-cal-topdayL {	BORDER-RIGHT: #939393 1px solid;	BORDER-TOP: #939393 1px solid;	BACKGROUND-IMAGE: url(calnumBttn_stforum.gif);	BORDER-LEFT: #939393 1px solid;	BORDER-BOTTOM: #939393 1px solid;	BACKGROUND-COLOR: #e8e8e8}
+   	       	   		.ms-cal-wtopdayL {	BORDER-RIGHT: #939393 1px solid;	BORDER-TOP: #939393 1px solid;	BACKGROUND-IMAGE: url(calnumBttn_stforum.gif);	BORDER-LEFT: #939393 1px solid;	BORDER-BOTTOM: #939393 1px solid;	BACKGROUND-COLOR: #e8e8e8}
+   	       	   		.ms-cal-wtopday {	BORDER-RIGHT: #939393 1px solid;	BORDER-TOP: #939393 1px solid;	BACKGROUND-IMAGE: url(calnumBttn_stforum.gif);	BORDER-LEFT: #939393 1px solid;	BORDER-BOTTOM: #939393 1px solid;	BACKGROUND-COLOR: #e8e8e8}.ms-cal-topdayRTL {	BORDER-RIGHT: #939393 1px solid;	BORDER-TOP: #939393 1px solid;	BACKGROUND-IMAGE: url(calnumBttn_stforum.gif);	BORDER-LEFT: #939393 1px solid;	BORDER-BOTTOM: #939393 1px solid;	BACKGROUND-COLOR: #e8e8e8}
+   	       	   		.ms-cal-topdayRTLL {	BORDER-RIGHT: #939393 1px solid;	BORDER-TOP: #939393 1px solid;	BACKGROUND-IMAGE: url(calnumBttn_stforum.gif);	BORDER-LEFT: #939393 1px solid;	BORDER-BOTTOM: #939393 1px solid;	BACKGROUND-COLOR: #e8e8e8}
+   	       	   		.ms-cal-wtopdayRTL {	BORDER-RIGHT: #939393 1px solid;	BORDER-TOP: #939393 1px solid;	BACKGROUND-IMAGE: url(calnumBttn_stforum.gif);	BORDER-LEFT: #939393 1px solid;	BORDER-BOTTOM: #939393 1px solid;	BACKGROUND-COLOR: #e8e8e8}
+   	       	   		.ms-cal-wtopdayRTLL {	BORDER-RIGHT: #939393 1px solid;	BORDER-TOP: #939393 1px solid;	BACKGROUND-IMAGE: url(calnumBttn_stforum.gif);	BORDER-LEFT: #939393 1px solid;	BORDER-BOTTOM: #939393 1px solid;	BACKGROUND-COLOR: #e8e8e8}
+   	       	   		.ms-cal-topday-today {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BACKGROUND-IMAGE: url(calnumBttntoday_stforum.gif);	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #ffdb5b}
+   	       	   		.ms-cal-wtopday-today {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BACKGROUND-IMAGE: url(calnumBttntoday_stforum.gif);	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #ffdb5b}
+   	       	   		.ms-cal-topday-todayRTL {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BACKGROUND-IMAGE: url(calnumBttntoday_stforum.gif);	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #ffdb5b}
+   	       	   		.ms-cal-wtopday-todayRTL {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BACKGROUND-IMAGE: url(calnumBttntoday_stforum.gif);	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #ffdb5b}
+   	       	   		.ms-cal-topday-today DIV {	BORDER-RIGHT: #ffc700 1px solid;	BORDER-TOP: #ffc700 1px solid;	BORDER-LEFT: #ffc700 1px solid;	BORDER-BOTTOM: #ffc700 1px solid}
+   	       	   		.ms-cal-wtopday-today DIV {	BORDER-RIGHT: #ffc700 1px solid;	BORDER-TOP: #ffc700 1px solid;	BORDER-LEFT: #ffc700 1px solid;	BORDER-BOTTOM: #ffc700 1px solid}
+   	       	   		.ms-cal-topday-todayover DIV {	BORDER-RIGHT: #ffc700 1px solid;	BORDER-TOP: #ffc700 1px solid;	BORDER-LEFT: #ffc700 1px solid;	BORDER-BOTTOM: #ffc700 1px solid}
+   	       	   		.ms-cal-wtopday-todayover DIV {	BORDER-RIGHT: #ffc700 1px solid;	BORDER-TOP: #ffc700 1px solid;	BORDER-LEFT: #ffc700 1px solid;	BORDER-BOTTOM: #ffc700 1px solid}
+   	       	   		.ms-cal-topday-todayRTL DIV {	BORDER-RIGHT: #ffc700 1px solid;	BORDER-TOP: #ffc700 1px solid;	BORDER-LEFT: #ffc700 1px solid;	BORDER-BOTTOM: #ffc700 1px solid}
+   	       	   		.ms-cal-wtopday-todayRTL DIV {	BORDER-RIGHT: #ffc700 1px solid;	BORDER-TOP: #ffc700 1px solid;	BORDER-LEFT: #ffc700 1px solid;	BORDER-BOTTOM: #ffc700 1px solid}
+   	       	   		.ms-cal-topday-todayoverRTL DIV {	BORDER-RIGHT: #ffc700 1px solid;	BORDER-TOP: #ffc700 1px solid;	BORDER-LEFT: #ffc700 1px solid;	BORDER-BOTTOM: #ffc700 1px solid}
+   	       	   		.ms-cal-wtopday-todayoverRTL DIV {	BORDER-RIGHT: #ffc700 1px solid;	BORDER-TOP: #ffc700 1px solid;	BORDER-LEFT: #ffc700 1px solid;	BORDER-BOTTOM: #ffc700 1px solid}
+   	       	   		.ms-cal-topday-todayover {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #e5e5e5}
+   	       	   		.ms-cal-topday-todayoverRTL {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #e5e5e5}
+   	       	   		.ms-cal-wtopday-todayover {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #e5e5e5}
+   	       	   		.ms-cal-wtopday-todayoverRTL {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #e5e5e5}
+   	       	   		.ms-cal-topdayover {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BACKGROUND-IMAGE: none;	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #efefef}
+   	       	   		.ms-cal-topdayoverL {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BACKGROUND-IMAGE: none;	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #efefef}.ms-cal-wtopdayover {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BACKGROUND-IMAGE: none;	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #efefef}.ms-cal-wtopdayoverL {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BACKGROUND-IMAGE: none;	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #efefef}
+   	       	   		.ms-cal-topdayfocusover {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BACKGROUND-IMAGE: none;	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #efefef}.ms-cal-topdayoverRTL {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BACKGROUND-IMAGE: none;	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #efefef}.ms-cal-topdayoverRTLL {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BACKGROUND-IMAGE: none;	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #efefef}.ms-cal-wtopdayoverRTL {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BACKGROUND-IMAGE: none;	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #efefef}.ms-cal-wtopdayoverRTLL {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BACKGROUND-IMAGE: none;	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #efefef}.ms-cal-topdayfocusoverRTL {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BACKGROUND-IMAGE: none;	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #efefef}.ms-cal-topdayfocus {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BACKGROUND-IMAGE: url(calnumBttnfocus_stforum.gif);	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #cfcfcf}
+   	       	   		.ms-cal-topdayfocusL {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BACKGROUND-IMAGE: url(calnumBttnfocus_stforum.gif);	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #cfcfcf}.ms-cal-topdayfocusRTL {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BACKGROUND-IMAGE: url(calnumBttnfocus_stforum.gif);	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #cfcfcf}.ms-cal-topdayfocusRTLL {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BACKGROUND-IMAGE: url(calnumBttnfocus_stforum.gif);	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #cfcfcf}.ms-cal-wtopdayfocus {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BACKGROUND-IMAGE: url(calnumBttnfocus_stforum.gif);	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #cfcfcf}.ms-cal-wtopdayfocusL {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BACKGROUND-IMAGE: url(calnumBttnfocus_stforum.gif);	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #cfcfcf}.ms-cal-wtopdayfocusRTL {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BACKGROUND-IMAGE: url(calnumBttnfocus_stforum.gif);	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #cfcfcf}.ms-cal-wtopdayfocusRTLL {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BACKGROUND-IMAGE: url(calnumBttnfocus_stforum.gif);	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #cfcfcf}.ms-cal-nodataMid {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-LEFT: #a8a8a8 1px solid;	BACKGROUND-COLOR: #d1d1d1}.ms-cal-nodataLeft {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-LEFT: #a8a8a8 1px solid;	BACKGROUND-COLOR: #d1d1d1}.ms-cal-nodataLeftRTL {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-LEFT: #a8a8a8 1px solid;	BACKGROUND-COLOR: #d1d1d1}
+   	       	   		.ms-cal-nodataLeftBtm {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-LEFT: #a8a8a8 1px solid;	BACKGROUND-COLOR: #d1d1d1}.ms-cal-nodataLeftBtmRTL {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-LEFT: #a8a8a8 1px solid;	BACKGROUND-COLOR: #d1d1d1}.ms-cal-nodataLeftBtm2 {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-LEFT: #a8a8a8 1px solid;	BACKGROUND-COLOR: #d1d1d1}.ms-cal-nodataLeftBtmRTL2 {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-LEFT: #a8a8a8 1px solid;	BACKGROUND-COLOR: #d1d1d1}.ms-cal-nodataBtm {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-LEFT: #a8a8a8 1px solid;	BACKGROUND-COLOR: #d1d1d1}.ms-cal-nodataBtm2 {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-LEFT: #a8a8a8 1px solid;	BACKGROUND-COLOR: #d1d1d1}.ms-cal-nodataLeftBtm {	BORDER-BOTTOM: #a8a8a8 1px solid}.ms-cal-nodataLeftBtmRTL {	BORDER-BOTTOM: #a8a8a8 1px solid}.ms-cal-nodataLeftBtm2 {	BORDER-BOTTOM: #a8a8a8 1px solid}.ms-cal-nodataLeftBtmRTL2 {	BORDER-BOTTOM: #a8a8a8 1px solid}.ms-cal-nodataBtm {	BORDER-BOTTOM: #a8a8a8 1px solid}.ms-cal-nodataBtm2 {	BORDER-BOTTOM: #a8a8a8 1px solid}.ms-cal-muworkitem {	BORDER-RIGHT: #a8a8a8 1px solid}.ms-cal-muworkitemRTL {	BORDER-RIGHT: #a8a8a8 1px solid}.ms-cal-muworkitemRTLL {	BORDER-RIGHT: #a8a8a8 1px solid}.ms-cal-muworkitemR {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-LEFT: #a8a8a8 1px solid}.ms-cal-muworkitemL {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-LEFT: #a8a8a8 1px solid}.ms-cal-workitem {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-LEFT: #a8a8a8 1px solid}.ms-cal-todayitem {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-LEFT: #a8a8a8 1px solid}.ms-cal-todayitemRTL {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-LEFT: #a8a8a8 1px solid}.ms-cal-workitem2 {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-LEFT: #a8a8a8 1px solid}.ms-cal-workitem2B {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid}.ms-cal-workitemRTL2B {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid}.ms-cal-todayitem2B {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid}.ms-cal-todayitemRTL2B {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid}.ms-cal-noworkitem {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-LEFT: #a8a8a8 1px solid}.ms-cal-noworkitemL {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-LEFT: #a8a8a8 1px solid}.ms-cal-noworkitemRTL {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-LEFT: #a8a8a8 1px solid}.ms-cal-noworkitemB {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid}.ms-cal-noworkitemLB {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid}.ms-cal-noworkitem2B {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid}
+   	       	   		.ms-cal-noworkitemL2B {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid}.ms-cal-noworkitemRTL2B {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid}.ms-cal-monthitem A {	COLOR: #276cff}.ms-cal-defaultbgcolor {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BACKGROUND-IMAGE: url(alldayDefault_stforum.gif);	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #e5e5e5}.ms-cal-defaultbgcolorsel {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BACKGROUND-IMAGE: url(alldayDefaultOver_stforum.gif);	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #f9f9f9}.ms-cal-monthAllDay {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BACKGROUND-IMAGE: url(alldayDefault_stforum.gif);	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #e5e5e5}.ms-cal-defaultbgcolor A {	COLOR: #276cff}.ms-cal-monthAllDay A {	COLOR: #276cff}.ms-cal-monthAllDaysel {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BACKGROUND-IMAGE: url(alldayDefaultOver_stforum.gif);	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #f9f9f9}.ms-cal-time {	BORDER-RIGHT: #939393 1px solid;	BACKGROUND-COLOR: #e5e5e5}.ms-cal-timeRTL {	BORDER-LEFT: #939393 1px solid;	BACKGROUND-COLOR: #e5e5e5}.ms-cal-workhour {	BORDER-TOP: #d1d1d1 1px solid;	COLOR: #276cff;	BACKGROUND-COLOR: #e5e5e5}.ms-cal-workhourB {	BORDER-TOP: #d1d1d1 1px solid;	COLOR: #276cff;	BORDER-BOTTOM: #d1d1d1 1px solid;	BACKGROUND-COLOR: #e5e5e5}.ms-cal-workhourRTL {	BORDER-TOP: #d1d1d1 1px solid;	COLOR: #276cff;	BACKGROUND-COLOR: #e5e5e5}.ms-cal-workhourRTLB {	BORDER-TOP: #d1d1d1 1px solid;	COLOR: #276cff;	BORDER-BOTTOM: #d1d1d1 1px solid;	BACKGROUND-COLOR: #e5e5e5}.ms-cal-workhourF {	COLOR: #276cff;	BACKGROUND-COLOR: #e5e5e5}.ms-cal-workhourRTLF {	COLOR: #276cff;	BACKGROUND-COLOR: #e5e5e5}.ms-cal-enoworkdayF {	BORDER-TOP: #d1d1d1 1px solid}.ms-cal-enoworkdayRTLF {	BORDER-TOP: #d1d1d1 1px solid}.ms-cal-eworkdayF {	BORDER-TOP: #d1d1d1 1px solid}.ms-cal-eworkdayRTLF {	BORDER-TOP: #d1d1d1 1px solid}.ms-cal-workhourF {	BORDER-TOP: #d1d1d1 1px solid}.ms-cal-workhourRTLF {	BORDER-TOP: #d1d1d1 1px solid}.ms-cal-eworkhourF .ms-cal-dayhour {	BORDER-TOP: #d1d1d1 1px solid}.ms-cal-eworkhourF .ms-cal-dayhourF {	BORDER-TOP: #d1d1d1 1px solid}.ms-cal-eworkhour .ms-cal-dayhourF {	BORDER-TOP: #d1d1d1 1px solid}.ms-cal-eworkhour .ms-cal-dayhour {	BORDER-TOP: #d1d1d1 1px solid}.ms-cal-eworkday .ms-cal-dayhour {	BORDER-TOP: #d1d1d1 1px solid}.ms-cal-enoworkday .ms-cal-dayhour {	BORDER-TOP: #d1d1d1 1px solid}.ms-cal-eworkday .ms-cal-dayhourF {	BORDER-TOP: #d1d1d1 1px solid}.ms-cal-enoworkday .ms-cal-dayhourF {	BORDER-TOP: #d1d1d1 1px solid}.ms-cal-enoworkhourF .ms-cal-dayhour {	BORDER-TOP: #d1d1d1 1px solid}.ms-cal-enoworkhourF .ms-cal-dayhourF {	BORDER-TOP: #d1d1d1 1px solid}.ms-cal-enoworkhour .ms-cal-dayhour {	BORDER-TOP: #d1d1d1 1px solid}.ms-cal-enoworkhour .ms-cal-dayhourF {	BORDER-TOP: #d1d1d1 1px solid}.ms-cal-eworkhourRTLF .ms-cal-dayhourRTL {	BORDER-TOP: #d1d1d1 1px solid}.ms-cal-eworkhourRTLF .ms-cal-dayhourRTLF {	BORDER-TOP: #d1d1d1 1px solid}.ms-cal-eworkhourRTL .ms-cal-dayhourRTLF {	BORDER-TOP: #d1d1d1 1px solid}.ms-cal-eworkhourRTL .ms-cal-dayhourRTL {	BORDER-TOP: #d1d1d1 1px solid}.ms-cal-eworkdayRTL .ms-cal-dayhourRTL {	BORDER-TOP: #d1d1d1 1px solid}.ms-cal-enoworkdayRTL .ms-cal-dayhourRTL {	BORDER-TOP: #d1d1d1 1px solid}.ms-cal-eworkdayRTL .ms-cal-dayhourRTLF {	BORDER-TOP: #d1d1d1 1px solid}.ms-cal-enoworkdayRTL .ms-cal-dayhourRTLF {	BORDER-TOP: #d1d1d1 1px solid}.ms-cal-enoworkhourRTL .ms-cal-dayhourRTLF {	BORDER-TOP: #d1d1d1 1px solid}.ms-cal-enoworkhourRTL .ms-cal-dayhourRTL {	BORDER-TOP: #d1d1d1 1px solid}.ms-cal-enoworkhourRTLF .ms-cal-dayhourRTLF {	BORDER-TOP: #d1d1d1 1px solid}.ms-cal-enoworkhourRTLF .ms-cal-dayhourRTL {	BORDER-TOP: #d1d1d1 1px solid}.ms-cal-eworkhourF .ms-cal-dayhalfhourF {	BORDER-TOP: #e5e5e5 1px solid}.ms-cal-eworkhour .ms-cal-dayhalfhourF {	BORDER-TOP: #e5e5e5 1px solid}.ms-cal-eworkhour .ms-cal-dayhalfhour {	BORDER-TOP: #e5e5e5 1px solid}.ms-cal-eworkday .ms-cal-dayhalfhour {	BORDER-TOP: #e5e5e5 1px solid}.ms-cal-enoworkday .ms-cal-dayhalfhour {	BORDER-TOP: #e5e5e5 1px solid}.ms-cal-eworkday .ms-cal-dayhalfhourF {	BORDER-TOP: #e5e5e5 1px solid}.ms-cal-enoworkday .ms-cal-dayhalfhourF {	BORDER-TOP: #e5e5e5 1px solid}.ms-cal-enoworkhour .ms-cal-dayhalfhour {	BORDER-TOP: #e5e5e5 1px solid}.ms-cal-enoworkhour .ms-cal-dayhalfhourF {	BORDER-TOP: #e5e5e5 1px solid}.ms-cal-eworkhourRTLF .ms-cal-dayhalfhourRTLF {	BORDER-TOP: #e5e5e5 1px solid}.ms-cal-eworkhourRTL .ms-cal-dayhalfhourRTLF {	BORDER-TOP: #e5e5e5 1px solid}.ms-cal-eworkhourRTL .ms-cal-dayhalfhourRTL {	BORDER-TOP: #e5e5e5 1px solid}.ms-cal-eworkdayRTL .ms-cal-dayhalfhourRTL {	BORDER-TOP: #e5e5e5 1px solid}.ms-cal-enoworkdayRTL .ms-cal-dayhalfhourRTL {	BORDER-TOP: #e5e5e5 1px solid}.ms-cal-eworkdayRTL .ms-cal-dayhalfhourRTLF {	BORDER-TOP: #e5e5e5 1px solid}.ms-cal-enoworkdayRTL .ms-cal-dayhalfhourRTLF {	BORDER-TOP: #e5e5e5 1px solid}
+   	       	   		.ms-cal-enoworkhourRTL .ms-cal-dayhalfhourRTLF {	BORDER-TOP: #e5e5e5 1px solid}.ms-cal-enoworkhourRTLF .ms-cal-dayhalfhourRTLF {	BORDER-TOP: #e5e5e5 1px solid}.ms-cal-enoworkhourRTL .ms-cal-dayhalfhourRTL {	BORDER-TOP: #e5e5e5 1px solid}.ms-cal-enoworkhourB .ms-cal-dayhalfhour {	BORDER-TOP: #e5e5e5 1px solid;	BORDER-BOTTOM: #d1d1d1 1px solid;	BACKGROUND-COLOR: #e5e5e5}.ms-cal-enoworkhourB .ms-cal-dayhour {	BORDER-TOP: #e5e5e5 1px solid;	BORDER-BOTTOM: #d1d1d1 1px solid;	BACKGROUND-COLOR: #e5e5e5}.ms-cal-enoworkhourB .ms-cal-dayhalfhourF {	BORDER-TOP: #e5e5e5 1px solid;	BORDER-LEFT: #939393 1px solid;	BORDER-BOTTOM: #d1d1d1 1px solid;	BACKGROUND-COLOR: #e5e5e5}.ms-cal-enoworkhourB .ms-cal-dayhourF {	BORDER-TOP: #e5e5e5 1px solid;	BORDER-LEFT: #939393 1px solid;	BORDER-BOTTOM: #d1d1d1 1px solid;	BACKGROUND-COLOR: #e5e5e5}.ms-cal-enoworkhourF .ms-cal-dayhour {	BACKGROUND-COLOR: #efefef}.ms-cal-enoworkhourRTL .ms-cal-dayhalfhourRTLF {	BACKGROUND-COLOR: #efefef}.ms-cal-enoworkhourRTLF .ms-cal-dayhalfhourRTLF {	BACKGROUND-COLOR: #efefef}.ms-cal-enoworkhourRTL .ms-cal-dayhalfhourRTL {	BACKGROUND-COLOR: #efefef}.ms-cal-enoworkhourRTL .ms-cal-dayhourRTLF {	BACKGROUND-COLOR: #efefef}.ms-cal-enoworkhourRTL .ms-cal-dayhourRTL {	BACKGROUND-COLOR: #efefef}.ms-cal-enoworkhourRTLF .ms-cal-dayhourRTLF {	BACKGROUND-COLOR: #efefef}.ms-cal-enoworkhourRTLF .ms-cal-dayhourRTL {	BACKGROUND-COLOR: #efefef}.ms-cal-enoworkhour .ms-cal-dayhalfhourF {	BACKGROUND-COLOR: #efefef}.ms-cal-enoworkhour .ms-cal-dayhalfhour {	BACKGROUND-COLOR: #efefef}.ms-cal-enoworkhour .ms-cal-dayhourF {	BACKGROUND-COLOR: #efefef}.ms-cal-enoworkhour .ms-cal-dayhour {	BACKGROUND-COLOR: #efefef}.ms-cal-enoworkhourF .ms-cal-dayhourF {	BACKGROUND-COLOR: #efefef}.ms-cal-enoworkhour {	BACKGROUND-COLOR: #efefef}.ms-cal-enoworkhourRTL {	BACKGROUND-COLOR: #efefef}.ms-cal-enoworkhourRTLL {	BACKGROUND-COLOR: #efefef}.ms-cal-enoworkhourL {	BACKGROUND-COLOR: #efefef}.ms-cal-enoworkhourF {	BACKGROUND-COLOR: #efefef}.ms-cal-enoworkhourRTLF {	BACKGROUND-COLOR: #efefef}.ms-cal-enoworkhourRTLB .ms-cal-dayhalfhourRTLF {	BORDER-RIGHT: #939393 1px solid;	BORDER-TOP: #e5e5e5 1px solid;	BORDER-BOTTOM: #d1d1d1 1px solid;	BACKGROUND-COLOR: #e5e5e5}.ms-cal-enoworkhourRTLB .ms-cal-dayhourRTLF {	BORDER-RIGHT: #939393 1px solid;	BORDER-TOP: #e5e5e5 1px solid;	BORDER-BOTTOM: #d1d1d1 1px solid;	BACKGROUND-COLOR: #e5e5e5}.ms-cal-enoworkhourRTLB .ms-cal-dayhalfhourRTL {	BORDER-TOP: #e5e5e5 1px solid;	BORDER-BOTTOM: #d1d1d1 1px solid;	BACKGROUND-COLOR: #e5e5e5}.ms-cal-enoworkhourRTLB .ms-cal-dayhourRTL {	BORDER-TOP: #e5e5e5 1px solid;	BORDER-BOTTOM: #d1d1d1 1px solid;	BACKGROUND-COLOR: #e5e5e5}.ms-cal-eworkhourF .ms-cal-dayhourF {	BORDER-LEFT: #939393 1px solid}.ms-cal-eworkday .ms-cal-dayhourF {	BORDER-LEFT: #939393 1px solid}.ms-cal-enoworkday .ms-cal-dayhourF {	BORDER-LEFT: #939393 1px solid}.ms-cal-enoworkdayF .ms-cal-dayhourF {	BORDER-LEFT: #939393 1px solid}.ms-cal-eworkday .ms-cal-dayhalfhourF {	BORDER-LEFT: #939393 1px solid}.ms-cal-enoworkday .ms-cal-dayhalfhourF {	BORDER-LEFT: #939393 1px solid}.ms-cal-enoworkdayF .ms-cal-dayhalfhourF {	BORDER-LEFT: #939393 1px solid}.ms-cal-eworkdayF .ms-cal-dayhourF {	BORDER-LEFT: #939393 1px solid}.ms-cal-eworkhour .ms-cal-dayhourF {	BORDER-LEFT: #939393 1px solid}.ms-cal-eworkhour .ms-cal-dayhalfhourF {	BORDER-LEFT: #939393 1px solid}.ms-cal-eworkhourRTLF .ms-cal-dayhourRTLF {	BORDER-RIGHT: #939393 1px solid}.ms-cal-eworkdayRTL .ms-cal-dayhourRTLF {	BORDER-RIGHT: #939393 1px solid}.ms-cal-enoworkhourRTLF .ms-cal-dayhalfhourRTLF {	BORDER-RIGHT: #939393 1px solid}.ms-cal-enoworkdayRTL .ms-cal-dayhourRTLF {	BORDER-RIGHT: #939393 1px solid}.ms-cal-enoworkdayRTLF .ms-cal-dayhourRTLF {	BORDER-RIGHT: #939393 1px solid}.ms-cal-enoworkdayRTLF .ms-cal-dayhourRTLF {	BORDER-RIGHT: #939393 1px solid}.ms-cal-eworkdayRTL .ms-cal-dayhalfhourRTLF {	BORDER-RIGHT: #939393 1px solid}.ms-cal-enoworkdayRTL .ms-cal-dayhalfhourRTLF {	BORDER-RIGHT: #939393 1px solid}.ms-cal-enoworkdayRTLF .ms-cal-dayhalfhourRTLF {	BORDER-RIGHT: #939393 1px solid}.ms-cal-enoworkdayRTLF .ms-cal-dayhalfhourRTLF {	BORDER-RIGHT: #939393 1px solid}.ms-cal-eworkdayRTLF .ms-cal-dayhourRTLF {	BORDER-RIGHT: #939393 1px solid}.ms-cal-eworkhourRTL .ms-cal-dayhourRTLF {	BORDER-RIGHT: #939393 1px solid}.ms-cal-eworkhourRTL .ms-cal-dayhalfhourRTLF {	BORDER-RIGHT: #939393 1px solid}.ms-cal-enoworkhourF .ms-cal-dayhourF {	BORDER-LEFT: #939393 1px solid}.ms-cal-enoworkhour .ms-cal-dayhalfhourF {	BORDER-LEFT: #939393 1px solid}.ms-cal-enoworkhour .ms-cal-dayhourF {	BORDER-LEFT: #939393 1px solid}.ms-cal-enoworkhourRTLF .ms-cal-dayhourRTLF {	BORDER-RIGHT: #939393 1px solid}.ms-cal-enoworkhourRTL .ms-cal-dayhalfhourRTLF {	BORDER-RIGHT: #939393 1px solid}.ms-cal-enoworkhourRTL .ms-cal-dayhourRTLF {	BORDER-RIGHT: #939393 1px solid}.ms-cal-weekedge {	BACKGROUND-COLOR: #e5e5e5}.ms-cal-wemptycell {	BORDER-LEFT: #939393 1px solid;	BACKGROUND-COLOR: #d1d1d1}.ms-cal-wemptycellL {	BORDER-LEFT: #939393 1px solid;	BACKGROUND-COLOR: #d1d1d1}.ms-cal-walldayevent {	BORDER-RIGHT: #939393 1px solid;	BORDER-LEFT: #939393 1px solid;	BACKGROUND-COLOR: #d1d1d1}.ms-cal-walldayeventL {	BORDER-RIGHT: #939393 1px solid;	BORDER-LEFT: #939393 1px solid;	BACKGROUND-COLOR: #d1d1d1}.ms-cal-walldayeventRTL {	BORDER-RIGHT: #939393 1px solid;	BORDER-LEFT: #939393 1px solid;	BACKGROUND-COLOR: #d1d1d1}.ms-cal-walldayeventRTLL {	BORDER-RIGHT: #939393 1px solid;	BORDER-LEFT: #939393 1px solid;	BACKGROUND-COLOR: #d1d1d1}.ms-cal-alldayevent {	BORDER-RIGHT: #939393 1px solid;	BORDER-LEFT: #939393 1px solid}.ms-cal-alldayeventL {	BORDER-RIGHT: #939393 1px solid;	BORDER-LEFT: #939393 1px solid}.ms-cal-alldayeventRTL {	BORDER-RIGHT: #939393 1px solid;	BORDER-LEFT: #939393 1px solid}
+   	       	   		.ms-cal-alldayeventRTLL {	BORDER-RIGHT: #939393 1px solid;	BORDER-LEFT: #939393 1px solid}.ms-cal-tweekitem {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BACKGROUND-IMAGE: url(alldayDefault_stforum.gif);	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #e5e5e5}.ms-cal-tdayitem {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-TOP: #a8a8a8 1px solid;	BACKGROUND-IMAGE: url(alldayDefault_stforum.gif);	BORDER-LEFT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid;	BACKGROUND-COLOR: #e5e5e5}.ms-cal-nav-buttonsltr {	COLOR: #a8a8a8}.ms-cal-nav-buttonsRTL {	COLOR: #a8a8a8}.ms-picker-header {	BACKGROUND-IMAGE: url(quickLaunchHeader_stforum.gif);	COLOR: #276cff}.ms-picker-header TABLE.ms-picker-table {	BORDER-BOTTOM: #a8a8a8 1px solid}.ms-picker-table .ms-picker-dayheader {	BORDER-TOP-WIDTH: 0px;	BORDER-BOTTOM: #d1d1d1 1px solid}.ms-picker-week {	BACKGROUND-IMAGE: url(weekbox_stforum.gif)}.ms-picker-week A {	COLOR: #276cff}.ms-picker-weekRTL {	BACKGROUND-IMAGE: url(weekbox_stforum.gif)}.ms-picker-weekRTL A {	COLOR: #276cff}.ms-quicklaunch TABLE.ms-picker-table TD.ms-picker-monthcenter {	BORDER-RIGHT: #f9f9f9 1px solid;	BORDER-TOP: #f9f9f9 1px solid;	BORDER-LEFT: #f9f9f9 1px solid;	BORDER-BOTTOM: #f9f9f9 1px solid;	BACKGROUND-COLOR: #f9f9f9}.ms-picker-monthcenter A {	COLOR: #276cff}.ms-picker-monthcenter A:active {	COLOR: #276cff}.ms-picker-monthcenter A:link {	COLOR: #276cff}.ms-picker-monthcenter A:visited {	COLOR: #276cff}.ms-picker-monthcenter A:hover {	COLOR: #276cff}.ms-quicklaunch TABLE.ms-picker-table TD.ms-picker-monthselected {	BORDER-RIGHT: #79a4ff 1px solid;	BORDER-TOP: #79a4ff 1px solid;	BACKGROUND-IMAGE: url(selectednav_stforum.gif);	BORDER-LEFT: #79a4ff 1px solid;	BORDER-BOTTOM: #79a4ff 1px solid;	BACKGROUND-COLOR: #ffe999}TABLE.ms-picker-table TD.ms-picker-footer {	BORDER-TOP: #d1d1d1 1px solid}.ms-navframe .ms-datepickerouter {	BORDER-RIGHT: #a8a8a8 1px solid;	BORDER-BOTTOM: #a8a8a8 1px solid}.ms-picker-daycenter A {	COLOR: #276cff}.ms-picker-today A {	COLOR: #276cff}.ms-picker-dayselected A {	COLOR: #276cff}DIV.ms-cal-navheader A IMG {	BORDER-RIGHT: #939393 1px solid;	BORDER-TOP: #939393 1px solid;	BACKGROUND-IMAGE: url(listheadergrad_stforum.gif);	BORDER-LEFT: #939393 1px solid;	BORDER-BOTTOM: #939393 1px solid}.ms-BlogNavigator DIV.ms-navheader {	BORDER-TOP: #f9f9f9 1px solid;	BORDER-LEFT: #f9f9f9 1px solid;	BORDER-BOTTOM: #d1d1d1 1px solid;	BACKGROUND-COLOR: #efefef}.ms-BlogNavigator DIV.ms-navheader A {	COLOR: #276cff}.ms-BlogNavigator DIV.ms-WPBody {	BORDER-TOP: #d1d1d1 1px solid}.ms-blogedit {	BORDER-TOP: #a3c1ff 1px solid}.ms-blogedit A {	BORDER-RIGHT: #a3c1ff 1px solid;	BORDER-TOP: #a3c1ff 0px solid;	BACKGROUND-IMAGE: url(toolgrad_stforum.gif);	BORDER-LEFT: #a3c1ff 1px solid;	BORDER-BOTTOM: #a3c1ff 1px solid;	BACKGROUND-COLOR: #a9c6c3}.ms-commenttable TD {	BORDER-TOP: #a3c1ff 1px solid}.ms-PostTitle {	BORDER-TOP: #a3c1ff 1px solid}.ms-blogrssnav {	BORDER-TOP: #d1d1d1 1px solid}.ms-blogrssnav A {	COLOR: #276cff}TABLE.ms-disc-bar {	BORDER-RIGHT: #a3c1ff 1px solid;	BORDER-TOP: #a3c1ff 1px solid;	BACKGROUND-IMAGE: url(toolgrad_stforum.gif);	BORDER-LEFT: #a3c1ff 1px solid;	BORDER-BOTTOM: #a3c1ff 1px solid;	BACKGROUND-COLOR: #e5e5e5}TD.ms-disc-bordered {	BORDER-RIGHT: #a3c1ff 0px solid;	BORDER-TOP: #a3c1ff 0px solid;	BORDER-LEFT: #a3c1ff 0px solid;	BORDER-BOTTOM: #a3c1ff 0px solid}TD.ms-disc-bordered-noleft {	BORDER-RIGHT: #a3c1ff 0px solid;	BORDER-TOP: #a3c1ff 0px solid;	BORDER-LEFT: #a3c1ff 0px solid;	BORDER-BOTTOM: #a3c1ff 0px solid}TABLE.ms-disc HR {	COLOR: #a3c1ff}.ms-wikieditouter {	BORDER-RIGHT: #939393 2px solid;	BORDER-TOP: #939393 1px solid;	BORDER-LEFT: #939393 1px solid;	BORDER-BOTTOM: medium none}.ms-picker-table .ms-picker-daycenterOn {	BACKGROUND-COLOR: #dbdbdb}.ms-WPAddButton {	BORDER-RIGHT: #ffc700 1px solid;	BORDER-TOP: #ffc700 1px solid;	BACKGROUND: url(wpqaM_stforum.gif) #fff3c7 repeat-x;	BORDER-LEFT: #ffc700 1px solid;	BORDER-BOTTOM: #ffc700 1px solid}.ms-WPAddButtonHover {	BACKGROUND: url(wpqaMH_stforum.gif) #fffcf1 repeat-x}.ms-WPAddButton SPAN {	COLOR: #9a7800}.ms-WPAddButtonHover SPAN {	COLOR: #000000}.ms-SPZone {	BORDER-RIGHT: #d1d1d1 1px solid;	BORDER-TOP: #d1d1d1 1px solid;	BORDER-LEFT: #d1d1d1 1px solid;	BORDER-BOTTOM: #d1d1d1 1px solid;	BACKGROUND-COLOR: #efefef}.ms-HoverCellActiveDark {	BORDER-RIGHT: #79a4ff 1px solid;	BORDER-TOP: #79a4ff 1px solid;	BACKGROUND-IMAGE: url(menubuttonhover_stforum.gif);	BORDER-LEFT: #79a4ff 1px solid;	BORDER-BOTTOM: #79a4ff 1px solid;	BACKGROUND-COLOR: #ffd233}.ms-SPZone TR.ms-viewheadertr TABLE {	BACKGROUND-COLOR: transparent}.ms-SPZoneSelected TR.ms-viewheadertr TABLE {	BACKGROUND-COLOR: transparent}.ms-SPZone .ms-vh2 TABLE {	BACKGROUND-COLOR: transparent}.ms-SPZoneSelected .ms-vh2 TABLE {	BACKGROUND-COLOR: transparent}.ms-SPZone .ms-vh TABLE {	BACKGROUND-COLOR: transparent}.ms-SPZoneSelected .ms-vh TABLE {	BACKGROUND-COLOR: transparent}.ms-SPZone .ms-vh TABLE.ms-selectedTitle {	BACKGROUND-COLOR: transparent}.ms-SPZone .ms-vh TABLE.ms-selectedTitle TD {	BACKGROUND-COLOR: transparent}.ms-SPZone .ms-vh2 TABLE.ms-selectedTitle {	BACKGROUND-COLOR: transparent}.ms-SPZoneSelected .ms-vh TABLE.ms-selectedTitle {	BACKGROUND-COLOR: transparent}.ms-SPZoneSelected .ms-vh TABLE.ms-selectedTitle TD {	BACKGROUND-COLOR: transparent}.ms-SPZoneSelected .ms-vh2 TABLE.ms-selectedTitle {	BACKGROUND-COLOR: transparent}.ms-cal-enoworkday .ms-cal-dayhour {	BACKGROUND-COLOR: #efefef}.ms-cal-enoworkday .ms-cal-dayhourF {	BACKGROUND-COLOR: #efefef}.ms-cal-enoworkday .ms-cal-dayhourRTL {	BACKGROUND-COLOR: #efefef}.ms-cal-enoworkday .ms-cal-dayhourRTLF {	BACKGROUND-COLOR: #efefef}.ms-cal-enoworkday .ms-cal-dayhalfhourF {	BACKGROUND-COLOR: #efefef}.ms-cal-enoworkday .ms-cal-dayhalfhour {	BACKGROUND-COLOR: #efefef}.ms-cal-enoworkday .ms-cal-dayhalfhourRTLF {	BACKGROUND-COLOR: #efefef}.ms-cal-enoworkday .ms-cal-dayhalfhourRTL {	BACKGROUND-COLOR: #efefef}.ms-cal-workhalfhour {	BACKGROUND-COLOR: #efefef}.ms-cal-workhalfhourover {	BACKGROUND-COLOR: #efefef}.ms-cal-workhalfhourRTL {	BACKGROUND-COLOR: #efefef}.ms-cal-workhalfhourRTLover {	BACKGROUND-COLOR: #efefef}.ms-cal-workhour {	BORDER-TOP-COLOR: #d1d1d1;	BACKGROUND-COLOR: #efefef}.ms-cal-workhourover {	BORDER-TOP-COLOR: #d1d1d1;	BACKGROUND-COLOR: #efefef}.ms-cal-workhourF {	BORDER-TOP-COLOR: #d1d1d1;	BACKGROUND-COLOR: #efefef}.ms-cal-workhourFover {	BORDER-TOP-COLOR: #d1d1d1;	BACKGROUND-COLOR: #efefef}.ms-cal-workhourRTL {	BORDER-TOP-COLOR: #d1d1d1;	BACKGROUND-COLOR: #efefef}.ms-cal-workhouroverRTL {	BORDER-TOP-COLOR: #d1d1d1;	BACKGROUND-COLOR: #efefef}.ms-cal-workhourRTLF {	BORDER-TOP-COLOR: #d1d1d1;	BACKGROUND-COLOR: #efefef}.ms-cal-workhourRTLFover {	BORDER-TOP-COLOR: #d1d1d1;	BACKGROUND-COLOR: #efefef}
+   	       	   		.ms-cal-enoworkhourF .ms-cal-dayhour {	BACKGROUND-COLOR: #efefef}.ms-cal-enoworkhourRTLF .ms-cal-dayhour {	BACKGROUND-COLOR: #efefef}.ms-cal-workhourhalfhour {	BORDER-TOP-COLOR: #d1d1d1;	BACKGROUND-COLOR: #efefef}.ms-cal-workhourhalfhourover {	BORDER-TOP-COLOR: #d1d1d1;	BACKGROUND-COLOR: #efefef}.ms-cal-workhourhalfhourRTL {	BORDER-TOP-COLOR: #d1d1d1;	BACKGROUND-COLOR: #efefef}.ms-cal-workhourhalfhouroverRTL {	BORDER-TOP-COLOR: #d1d1d1;	BACKGROUND-COLOR: #efefef}.ms-cal-workhourBhalfhour {	BORDER-BOTTOM-COLOR: #d1d1d1;	BORDER-TOP-COLOR: #d1d1d1;	BACKGROUND-COLOR: #efefef}.ms-cal-workhourBhalfhourover {	BORDER-BOTTOM-COLOR: #d1d1d1;	BORDER-TOP-COLOR: #d1d1d1;	BACKGROUND-COLOR: #efefef}TR TH.ms-cal-workhourBhalfhour {	BORDER-TOP: #d1d1d1 1px solid}.ms-cal-enoworkhourB {	BORDER-TOP-COLOR: #d1d1d1}.ms-cal-enoworkhourB .ms-cal-dayhalfhour {	BORDER-TOP: #e5e5e5 1px solid;	BORDER-LEFT-COLOR: #d1d1d1;	BORDER-BOTTOM-COLOR: #efefef;	BACKGROUND-COLOR: #efefef}.ms-cal-enoworkhourB .ms-cal-dayhalfhourF {	BORDER-TOP: #e5e5e5 1px solid;	BORDER-LEFT-COLOR: #d1d1d1;	BORDER-BOTTOM-COLOR: #efefef;	BACKGROUND-COLOR: #efefef}.ms-cal-eworkhourB .ms-cal-dayhalfhour {	BORDER-LEFT-COLOR: #d1d1d1;	BORDER-BOTTOM-COLOR: #efefef;	BORDER-TOP-COLOR: #efefef;	BACKGROUND-COLOR: #efefef}.ms-cal-eworkhourB .ms-cal-dayhalfhourF {	BORDER-LEFT-COLOR: #d1d1d1;	BORDER-BOTTOM-COLOR: #efefef;	BORDER-TOP-COLOR: #efefef;	BACKGROUND-COLOR: #efefef}.ms-cal-eworkhourB .ms-cal-dayhalfhourRTLF {	BORDER-BOTTOM-COLOR: #efefef;	BORDER-TOP-COLOR: #efefef;	BACKGROUND-COLOR: #efefef;	BORDER-RIGHT-COLOR: #d1d1d1}.ms-cal-eworkhourB .ms-cal-dayhalfhourRTL {	BORDER-BOTTOM-COLOR: #efefef;	BORDER-TOP-COLOR: #efefef;	BACKGROUND-COLOR: #efefef;	BORDER-RIGHT-COLOR: #d1d1d1}.ms-cal-enowork .ms-cal-dayhalfhour {	BORDER-BOTTOM-COLOR: #efefef}.ms-cal-enowork .ms-cal-dayhalfhourF {	BORDER-BOTTOM-COLOR: #efefef}.ms-cal-enowork .ms-cal-dayhalfhourRTL {	BORDER-BOTTOM-COLOR: #efefef}.ms-cal-enowork .ms-cal-dayhalfhourRTLF {	BORDER-BOTTOM-COLOR: #efefef}.ms-cal-wtopday {	BACKGROUND-COLOR: #efefef}.ms-cal-wtopdayRTL {	BACKGROUND-COLOR: #efefef}.ms-cal-wtopdayL {	BACKGROUND-COLOR: #efefef}.ms-cal-wtopday-today {	BACKGROUND-COLOR: #efefef}.ms-cal-wtopday-todayRTL {	BACKGROUND-COLOR: #efefef}.ms-cal-wtopdayRTLL {	BACKGROUND-COLOR: #efefef}.ms-cal-weekselected {	BACKGROUND-IMAGE: url(weekbox_lichen.gif);	BACKGROUND-REPEAT: repeat-y}.ms-cal-weekselectedRTL {	BACKGROUND-IMAGE: url(weekbox_lichen.gif);	BACKGROUND-REPEAT: repeat-y}.cont {	BORDER-LEFT-COLOR: #d1d1d1;	BORDER-BOTTOM-COLOR: #d1d1d1;	BORDER-TOP-COLOR: #d1d1d1;	BORDER-RIGHT-COLOR: #d1d1d1}.contL {	BORDER-LEFT-COLOR: #d1d1d1;	BORDER-BOTTOM-COLOR: #d1d1d1;	BORDER-TOP-COLOR: #d1d1d1;	BORDER-RIGHT-COLOR: #d1d1d1}.contR {	BORDER-LEFT-COLOR: #d1d1d1;	BORDER-BOTTOM-COLOR: #d1d1d1;	BORDER-TOP-COLOR: #d1d1d1;	BORDER-RIGHT-COLOR: #d1d1d1}.contB {	BORDER-LEFT-COLOR: #d1d1d1;	BORDER-BOTTOM-COLOR: #d1d1d1;	BORDER-TOP-COLOR: #d1d1d1;	BORDER-RIGHT-COLOR: #d1d1d1}.ms-cal-topday {	BACKGROUND-COLOR: #efefef}.ms-cal-topday-today {	BACKGROUND-COLOR: #efefef}.ms-cal-topdayRTL {	BACKGROUND-COLOR: #efefef}.ms-cal-topday-todayRTL {	BACKGROUND-COLOR: #efefef}.ms-cal-week {	BACKGROUND-COLOR: #efefef}.ms-cal-weekB {	BACKGROUND-COLOR: #efefef}.ms-cal-weekRTL {	BACKGROUND-COLOR: #efefef}.ms-cal-weekBRTL {	BACKGROUND-COLOR: #efefef}.contR {	BORDER-LEFT-COLOR: #d1d1d1;	BORDER-BOTTOM-COLOR: #d1d1d1;	BORDER-TOP-COLOR: #d1d1d1;	BORDER-RIGHT-COLOR: #d1d1d1}.contB {	BORDER-LEFT-COLOR: #d1d1d1;	BORDER-BOTTOM-COLOR: #d1d1d1;	BORDER-TOP-COLOR: #d1d1d1;	BORDER-RIGHT-COLOR: #d1d1d1}.contL {	BORDER-LEFT-COLOR: #d1d1d1;	BORDER-BOTTOM-COLOR: #d1d1d1;	BORDER-TOP-COLOR: #d1d1d1;	BORDER-RIGHT-COLOR: #d1d1d1}.cont {	BORDER-LEFT-COLOR: #d1d1d1;	BORDER-BOTTOM-COLOR: #d1d1d1;	BORDER-TOP-COLOR: #d1d1d1;	BORDER-RIGHT-COLOR: #d1d1d1}TR TD.ms-cal-walldayevent {	BORDER-LEFT-COLOR: #d1d1d1;	BORDER-BOTTOM-COLOR: #d1d1d1;	BORDER-TOP-COLOR: #d1d1d1;	BACKGROUND-COLOR: #efefef;	BORDER-RIGHT-COLOR: #d1d1d1}TR TD.ms-cal-walldayeventRTL {	BORDER-LEFT-COLOR: #d1d1d1;	BORDER-BOTTOM-COLOR: #d1d1d1;	BORDER-TOP-COLOR: #d1d1d1;	BACKGROUND-COLOR: #efefef;	BORDER-RIGHT-COLOR: #d1d1d1}TR TD.ms-cal-walldayeventL {	BORDER-LEFT-COLOR: #d1d1d1;	BORDER-BOTTOM-COLOR: #d1d1d1;	BORDER-TOP-COLOR: #d1d1d1;	BACKGROUND-COLOR: #efefef;	BORDER-RIGHT-COLOR: #d1d1d1}TR TD.ms-cal-walldayeventRTLL {	BORDER-LEFT-COLOR: #d1d1d1;	BORDER-BOTTOM-COLOR: #d1d1d1;	BORDER-TOP-COLOR: #d1d1d1;	BACKGROUND-COLOR: #efefef;	BORDER-RIGHT-COLOR: #d1d1d1}.ms-cal-defaultbgcolor {	BORDER-LEFT-COLOR: #d1d1d1;	BORDER-BOTTOM-COLOR: #d1d1d1;	BORDER-TOP-COLOR: #d1d1d1;	BACKGROUND-COLOR: #efefef;	BORDER-RIGHT-COLOR: #d1d1d1}.ms-cal-defaultbgcolorsel {	BORDER-LEFT-COLOR: #d1d1d1;	BORDER-BOTTOM-COLOR: #d1d1d1;	BORDER-TOP-COLOR: #d1d1d1;	BACKGROUND-COLOR: #efefef;	BORDER-RIGHT-COLOR: #d1d1d1}.ms-cal-time {	BORDER-LEFT-COLOR: #d1d1d1;	BORDER-BOTTOM-COLOR: #d1d1d1;	BORDER-TOP-COLOR: #d1d1d1;	BORDER-RIGHT-COLOR: #d1d1d1}.ms-cal-timeRTL {	BORDER-LEFT-COLOR: #d1d1d1;	BORDER-BOTTOM-COLOR: #d1d1d1;	BORDER-TOP-COLOR: #d1d1d1;	BORDER-RIGHT-COLOR: #d1d1d1}TR TD.ms-cal-wemptycellRTL {	BORDER-LEFT-COLOR: #d1d1d1;	BORDER-BOTTOM-COLOR: #d1d1d1;	BORDER-TOP-COLOR: #d1d1d1;	BACKGROUND-COLOR: #efefef;	BORDER-RIGHT-COLOR: #d1d1d1}TR TD.ms-cal-wemptycellL {	BORDER-LEFT-COLOR: #d1d1d1;	BORDER-BOTTOM-COLOR: #d1d1d1;	BORDER-TOP-COLOR: #d1d1d1;	BACKGROUND-COLOR: #efefef;	BORDER-RIGHT-COLOR: #d1d1d1}TR TD.ms-cal-wemptycellRTLL {	BORDER-LEFT-COLOR: #d1d1d1;	BORDER-BOTTOM-COLOR: #d1d1d1;	BORDER-TOP-COLOR: #d1d1d1;	BACKGROUND-COLOR: #efefef;	BORDER-RIGHT-COLOR: #d1d1d1}.ms-pagetitle {	FONT-WEIGHT: normal;	FONT-SIZE: 16pt;	MARGIN: 0px 0px 4px;	COLOR: #00528e !important;	FONT-FAMILY: verdana}.ms-pagetitle A {	FONT-WEIGHT: normal;	MARGIN: 0px;	COLOR: #000000;	TEXT-DECORATION: none}.ms-pagetitle A:hover {	}TD.ms-titleareaframe {	BACKGROUND: repeat-x}DIV.ms-titleareaframe {	BACKGROUND: repeat-x}.ms-pagetitleareaframe {	BACKGROUND: repeat-x}.ms-mwspagetitleareaframe {	BACKGROUND: repeat-x}.ms-consoletitleareaframe {	BACKGROUND: repeat-x}.ms-consoletitleareaframebottom {	BACKGROUND: #e5e5e5}TABLE.ms-unselectedhover {	BACKGROUND-IMAGE: url(portaltabselected.gif)}DIV.ms-unselectedhover {	BACKGROUND-IMAGE: url(portaltabselected.gif)}TABLE.ms-selectednohover {	BACKGROUND-IMAGE: url(menubuttonhover_stforum.gif)}DIV.ms-selectednohover {	BACKGROUND-IMAGE: url(menubuttonhover_stforum.gif)}TABLE.ms-selectedhover {	BACKGROUND-IMAGE: url(portaltabselected.gif);	BACKGROUND-REPEAT: repeat-x;	BACKGROUND-COLOR: #fffae7}DIV.ms-selectedhover {	BACKGROUND-IMAGE: url(portaltabselected.gif);	BACKGROUND-REPEAT: repeat-x;	BACKGROUND-COLOR: #fffae7}.ms-ptabcn {	BACKGROUND-IMAGE: url(PortalTabSelected.gif);	BACKGROUND-REPEAT: repeat-x;	BACKGROUND-COLOR: #fffae7}
+   	       	   		.ms-sctabcn {	BACKGROUND-IMAGE: url(PortalTabSelected.gif);	BACKGROUND-REPEAT: repeat-x;	BACKGROUND-COLOR: #fffae7}.ms-ptabcnhover {	BACKGROUND-IMAGE: url(PortalTabHover.gif);	BACKGROUND-REPEAT: repeat-x;	BACKGROUND-COLOR: #fff3c8}
+   	       	   		.ms-sctabcnhover {	BACKGROUND-IMAGE: url(PortalTabHover.gif);	BACKGROUND-REPEAT: repeat-x;	BACKGROUND-COLOR: #fff3c8}.ms-ptabcfhover {	BACKGROUND: url(PortalTabHover.gif)}.ms-sctabcfhover {	BACKGROUND: url(PortalTabHover.gif)}
+   	       	   		TABLE.ms-applyfiltersinactive {	BACKGROUND-IMAGE: url(ApplyFiltersInActive.jpg)}TABLE.ms-applyfiltersactive {	BACKGROUND-IMAGE: url(ApplyFiltersActive.jpg)}TABLE.ms-applyfiltershoverover {	BACKGROUND-IMAGE: url(ApplyFiltersHoverOver.jpg)}.ms-consolestatuscell {	BACKGROUND-IMAGE: url(pageTitleBKGD_stforum.gif)}.leftnavPic {	BACKGROUND-IMAGE: url(portraitbackground.gif)}IMG.ms-rteCustom-PictureFrame {	BACKGROUND-COLOR: #ffffff}.ms-main .ms-sctabcf {	BORDER-TOP: #e5e5e5 1px solid;	BACKGROUND-IMAGE: none;	BORDER-LEFT: #e5e5e5 1px solid}.title-With-Background {	BACKGROUND-COLOR: #a8a8a8}.ms-searchsummarymain {	BACKGROUND-COLOR: #f9f9f9}DIV.ms-searchChannelTitle {	BORDER-RIGHT: #939393 1px solid;	BORDER-TOP: #939393 1px solid;	BACKGROUND: url(searchgradient.jpg) #73a1dd repeat-x;	BORDER-LEFT: #939393 1px solid;	BORDER-BOTTOM: #939393 1px solid}.ms-searchChannelTitle SPAN {	COLOR: #2796ed !important}.ms-searchtamain {	BORDER-BOTTOM: #939393 1px solid}DIV.srch-BestBetsBottom {	BORDER-BOTTOM: #939393 1px solid}.srch-HCMain {	BORDER-BOTTOM: #939393 1px solid}.ms-srchresultstop {	BACKGROUND-COLOR: #f9f9f9 !important}.srch-stats {	BACKGROUND-COLOR: #f9f9f9 !important}.ms-globalbreadcrumb {	FONT-SIZE: 12px;	COLOR: #666666 !important;	FONT-FAMILY: verdana;	TEXT-DECORATION: none}.ms-globalbreadcrumb A {	FONT-SIZE: 12px;	COLOR: #666666 !important;	FONT-FAMILY: verdana;	TEXT-DECORATION: none}.ms-globalbreadcrumb A:hover {	COLOR: #c3c3c3 !important;	FONT-FAMILY: verdana;	TEXT-DECORATION: none}.ms-globallinks {	COLOR: #666666;	FONT-FAMILY: verdana;	TEXT-DECORATION: none}.ms-globallinks A {	COLOR: #666666;	FONT-FAMILY: verdana;	TEXT-DECORATION: none}.ms-HoverCellActive {	BORDER-RIGHT: #ffffff 1px solid;	BORDER-TOP: #ffffff 1px solid;	BACKGROUND-IMAGE: none;	BORDER-LEFT: #ffffff 1px solid;	BORDER-BOTTOM: #ffffff 1px solid;	BACKGROUND-COLOR: #77c0e2}.ms-SpLinkButtonActive {	BORDER-RIGHT: #ffffff 1px solid;	BORDER-TOP: #ffffff 1px solid;	BACKGROUND-IMAGE: none;	BORDER-LEFT: #ffffff 1px solid;	BORDER-BOTTOM: #ffffff 1px solid;	BACKGROUND-COLOR: #77c0e2}.ms-siteactionsmenu DIV DIV DIV {	BORDER-RIGHT: #ffffff 1px solid;	BORDER-TOP: #ffffff 1px solid;	BACKGROUND-IMAGE: none;	BORDER-LEFT: #ffffff 1px solid;	BORDER-BOTTOM: #ffffff 1px solid;	BACKGROUND-COLOR: #028ac8}.ms-siteactionsmenu DIV DIV DIV.ms-siteactionsmenuhover {	BORDER-RIGHT: #665000 1px solid;	BORDER-TOP: #665000 1px solid;	BACKGROUND-IMAGE: none;	BORDER-LEFT: #665000 1px solid;	BORDER-BOTTOM: #665000 1px solid;	BACKGROUND-COLOR: #aa8800}.ms-pagemargin {	BACKGROUND-POSITION: -143px 0px;	BACKGROUND-IMAGE: none;	BACKGROUND-COLOR: #ffffff}TD.ms-rightareacell DIV.ms-pagemargin {	BACKGROUND-IMAGE: none;	BORDER-LEFT: #a8a8a8 0px solid;	BACKGROUND-REPEAT: repeat-x;	BACKGROUND-COLOR: #ffffff}TD.ms-titlearearight DIV.ms-titleareaframe {	BACKGROUND-IMAGE: none;	HEIGHT: 100%;	BACKGROUND-COLOR: #ffffff}.ms-nav {	BACKGROUND-IMAGE: none;	BACKGROUND-COLOR: #ffffff}.ms-bodyareaframe {	BORDER-RIGHT: #939393 2px solid;	BORDER-TOP: #939393 0px solid;	BORDER-LEFT: #939393 2px solid}.ms-viewareaframe {	BORDER-RIGHT: #939393 2px solid;	BORDER-TOP: #939393 0px solid;	BORDER-LEFT: #939393 2px solid}TD.ms-titleareaframe {	BACKGROUND: #ffffff}DIV.ms-titleareaframe {	BACKGROUND: #ffffff}.ms-pagetitleareaframe {	BACKGROUND: #ffffff}.ms-mwspagetitleareaframe {	BACKGROUND: #ffffff}.ms-consoletitleareaframe {	BACKGROUND: #ffffff}.ms-consoletitleareaframebottom {	BACKGROUND: #e5e5e5}TABLE.ms-unselectedhover {	BACKGROUND-IMAGE: url(portaltabselected.gif)}DIV.ms-unselectedhover {	BACKGROUND-IMAGE: url(portaltabselected.gif)}TABLE.ms-selectednohover {	BACKGROUND-IMAGE: url(menubuttonhover_stforum.gif)}DIV.ms-selectednohover {	BACKGROUND-IMAGE: url(menubuttonhover_stforum.gif)}TABLE.ms-selectedhover {	BACKGROUND-IMAGE: url(portaltabselected.gif);	BACKGROUND-REPEAT: repeat-x;	BACKGROUND-COLOR: #fffae7}DIV.ms-selectedhover {	BACKGROUND-IMAGE: url(portaltabselected.gif);	BACKGROUND-REPEAT: repeat-x;	BACKGROUND-COLOR: #fffae7}.ms-ptabcn {	BACKGROUND-IMAGE: url(PortalTabSelected.gif);	BACKGROUND-REPEAT: repeat-x;	BACKGROUND-COLOR: #fffae7}.ms-sctabcn {	BACKGROUND-IMAGE: url(PortalTabSelected.gif);	BACKGROUND-REPEAT: repeat-x;	BACKGROUND-COLOR: #fffae7}.ms-ptabcnhover {	BACKGROUND-IMAGE: url(PortalTabHover.gif);	BACKGROUND-REPEAT: repeat-x;	BACKGROUND-COLOR: #fff3c8}.ms-sctabcnhover {	BACKGROUND-IMAGE: url(PortalTabHover.gif);	BACKGROUND-REPEAT: repeat-x;	BACKGROUND-COLOR: #fff3c8}.ms-ptabcfhover {	BACKGROUND: url(PortalTabHover.gif)}.ms-sctabcfhover {	BACKGROUND: url(PortalTabHover.gif)}TABLE.ms-applyfiltersinactive {	BACKGROUND-IMAGE: url(ApplyFiltersInActive.jpg)}TABLE.ms-applyfiltersactive {	BACKGROUND-IMAGE: url(ApplyFiltersActive.jpg)}TABLE.ms-applyfiltershoverover {	BACKGROUND-IMAGE: url(ApplyFiltersHoverOver.jpg)}.ms-consolestatuscell {	BACKGROUND-IMAGE: url(pageTitleBKGD_stforum.gif)}.leftnavPic {	BACKGROUND-IMAGE: url(portraitbackground.gif)}IMG.ms-rteCustom-PictureFrame {	BACKGROUND-COLOR: #ffffff}.ms-main .ms-sctabcf {	BORDER-TOP: #e5e5e5 1px solid;	BACKGROUND-IMAGE: none;	BORDER-LEFT: #e5e5e5 1px solid}.title-With-Background {	BACKGROUND-COLOR: #a8a8a8}.ms-searchsummarymain {	BACKGROUND-COLOR: #f9f9f9}DIV.ms-searchChannelTitle {	BORDER-RIGHT: #939393 1px solid;	BORDER-TOP: #939393 1px solid;	BACKGROUND: url(searchgradient.jpg) #73a1dd repeat-x;	BORDER-LEFT: #939393 1px solid;	BORDER-BOTTOM: #939393 1px solid}.ms-searchChannelTitle SPAN {	COLOR: #2796ed !important}.ms-searchtamain {	BORDER-BOTTOM: #939393 1px solid}DIV.srch-BestBetsBottom {	BORDER-BOTTOM: #939393 1px solid}.srch-HCMain {	BORDER-BOTTOM: #939393 1px solid}.ms-srchresultstop {	BACKGROUND-COLOR: #f9f9f9 !important}
+   	       	   		.srch-stats {	BACKGROUND-COLOR: #f9f9f9 !important} 

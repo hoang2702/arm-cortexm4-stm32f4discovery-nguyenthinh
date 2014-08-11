@@ -1,0 +1,35 @@
+*** Creating Trace Output File '.\Exti\Exti.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\exti\main.o"'
+### List of Objects: adding '".\exti\stm32f4xx_it.o"'
+### List of Objects: adding '".\exti\system_stm32f4xx.o"'
+### List of Objects: adding '".\exti\ste2007.o"'
+### List of Objects: adding '".\exti\exit_config.o"'
+### List of Objects: adding '".\exti\control_pwm.o"'
+### List of Objects: adding '".\exti\gpio_config.o"'
+### List of Objects: adding '".\exti\stm32f4_discovery.o"'
+### List of Objects: adding '".\exti\stm32f4xx_rcc.o"'
+### List of Objects: adding '".\exti\misc.o"'
+### List of Objects: adding '".\exti\stm32f4xx_gpio.o"'
+### List of Objects: adding '".\exti\stm32f4xx_syscfg.o"'
+### List of Objects: adding '".\exti\stm32f4xx_exti.o"'
+### List of Objects: adding '".\exti\stm32f4xx_dma.o"'
+### List of Objects: adding '".\exti\stm32f4xx_adc.o"'
+### List of Objects: adding '".\exti\stm32f4xx_tim.o"'
+### List of Objects: adding '".\exti\startup_stm32f4xx.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M4.fp ".\exti\main.o" ".\exti\stm32f4xx_it.o" ".\exti\system_stm32f4xx.o" ".\exti\ste2007.o" ".\exti\exit_config.o" ".\exti\control_pwm.o" ".\exti\gpio_config.o" ".\exti\stm32f4_discovery.o" ".\exti\stm32f4xx_rcc.o" ".\exti\misc.o" ".\exti\stm32f4xx_gpio.o" ".\exti\stm32f4xx_syscfg.o" ".\exti\stm32f4xx_exti.o" ".\exti\stm32f4xx_dma.o" ".\exti\stm32f4xx_adc.o" ".\exti\stm32f4xx_tim.o" ".\exti\startup_stm32f4xx.o" --library_type=microlib --strict --scatter ".\Exti\Exti.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Exti\Exti.map" -o ".\Exti\Exti.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\Exti\Exti.axf'
+### ADS-LD Command File: '.\Exti\Exti.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\Exti\Exti.lnp', Handle=0x000003E4
+### Writing '.lnp' file
+### ADS-LD Command file '.\Exti\Exti.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

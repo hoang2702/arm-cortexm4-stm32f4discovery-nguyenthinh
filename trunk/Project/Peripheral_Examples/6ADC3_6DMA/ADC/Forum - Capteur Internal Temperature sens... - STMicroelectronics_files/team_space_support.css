@@ -1,0 +1,570 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Error</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style>
+.frontpage{
+    margin:0px auto;
+	height:1200px;
+}
+
+.frontpage_top{
+    height:200px;
+	FILTER: progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr="#ffffff",EndColorStr="#ffffff");
+}
+
+
+
+.frontpage_bottom{
+    height:200px;
+	FILTER: progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr="#ffffff",EndColorStr="#ffffff");
+}
+#conf_container{	
+    position:absolute;
+	z-index:1000;
+	margin: 0px auto; 
+	width: 100%;
+	height: 260px;
+	background-color: transparent;	
+}
+#conf_confirmation{
+	margin: 0 auto;
+	background-color:transparent;
+	width: 502px;
+	height: 180px;
+	padding-top:80px;
+}
+
+
+#conf_top_bar{
+	height:31px;
+	/*background-color:#000050;
+	border-left:1px solid #000050;
+	border-right:1px solid #000050;
+	border-top:1px solid #000050;*/
+	width:502px;
+}
+
+ 
+#conf_top_bar_rounded{
+    height:16px;
+
+}
+#conf_top_bar_normal{
+   height:15px;
+   background-color:#000050;
+   border-left:1px solid #000050;
+   border-right:1px solid #000050;
+}
+#conf_top_bar_title{
+	height:30px;
+	padding-top:5px;
+    width:472px !important;
+    float:left;
+    text-align:left;
+	border-top:1px solid #000050;
+}
+
+ 
+
+
+#conf_top_bar_title span {
+    padding-top:2px;
+	font-family:Lucida Grande,Lucida Sans, Lucida, Arial, sans-serif;
+	font-size:11pt;
+	font-weight:normal;
+	color:#000050;
+}
+
+
+
+
+
+#conf_top_bar_close{
+   margin-top:7px;
+   width:15px;
+   position:absolute;
+   z-index:100;
+   margin-left:457px;
+}
+
+#conf_top_bar_close span {
+    padding-left:4px;
+	padding-right:4px;
+	font-family:Lucida Grande,Lucida Sans, Lucida, Arial, sans-serif;
+	font-size:10pt;
+	font-weight:bold;
+	color:#000050;
+	background:#ffffff;
+	border:1px solid #000050;
+}
+
+#conf_top_bar_close span a{
+    color:#000050;
+	cursor:pointer;
+	text-decoration:none;
+}
+
+#conf_top_bar_close span a:hover{
+    color:#000050;
+	cursor:pointer;
+	text-decoration:none;
+}	
+
+.clear_divs{
+	clear:both;
+}
+				
+
+#conf_content{    
+	height:120px;
+	width:500px;		
+	background:#ffffff no-repeat top center;	
+	border-left:1px solid #000050;
+	border-right:1px solid #000050;
+	text-align:left;
+}
+
+#conf_inner_content {
+	float:left;	
+}
+
+#conf_inner_content ul {
+    padding:0px;
+	margin:0px;
+	margin-top:15px;
+}
+#conf_inner_content ul li{
+	font-family:Lucida Grande,Lucida Sans, Lucida, Arial, sans-serif;
+	font-size:10pt;
+	font-weight:normal;
+	color:#000050;
+	list-style-type:none;
+	text-align:left;
+	height:20px;
+	padding-left: 15px;
+	
+}
+#conf_inner_content ul li span{
+	color:#000050;
+}
+
+#conf_rounded_corners{
+    margin-top:0px;
+    width:502px;
+   	/*background-color:#000050;
+	border-left:1px solid #000050;
+	border-right:1px solid #000050;
+	border-bottom:1px solid #000050;*/
+	height:16px;
+}
+#conf_bottom_center{
+    width:472px !important;
+   	background-color:#000050;
+	border-bottom:1px solid #000050;
+	height:15px !important;
+}
+</style>
+<!--[if IE 6]>
+<style type="text/css">
+#conf_content{    
+	width:499px !important;
+}	
+#conf_top_bar{    
+	width:501px !important;
+}	
+#conf_top_bar_rounded{    
+	width:502px !important;
+}		
+#conf_top_bar_normal{    
+	margin-top:-1px !important;
+}
+</style>
+<![endif]-->
+
+<script type="text/javascript" src="shadedborder.js"></script>
+
+<style type="text/css">
+/* <![CDATA[ */
+
+/* Partial stuff top*/
+#partial{ margin:0px; padding:0px;height:16px;}
+ul #partial {list-type:none; overflow:hidden; width:502px; margin:0px auto; padding:0; list-style:none;}
+* html ul#partial { height:1%;list-style:none; }
+ul#partial li { float:left; width:15px; padding:0 0 0 0; text-align:left;list-style:none;
+                margin:0 0 0 0px; color:#000050; height:16px; 	font-family:Lucida Grande,Lucida Sans, Lucida, Arial, sans-serif;
+	            font-size:11pt;}
+ul#partial li, ul#partial li .sb-inner { background:#000050; }
+ul#partial li .sb-border { background:#000050; }
+
+
+
+/* Partial stuff bottom*/
+#partialbottom{ margin:0px; padding:0px;height:16px;}
+ul #partialbottom {list-type:none; overflow:hidden; width:502px; margin:0px auto; padding:0; list-style:none;}
+* html ul#partialbottom { height:1%;list-style:none; }
+ul#partialbottom li { float:left; width:15px; padding:0 0 0 0; text-align:left;list-style:none;
+                margin:0 0 0 0px; color:#000050; height:16px; 	font-family:Lucida Grande,Lucida Sans, Lucida, Arial, sans-serif;
+	            font-size:11pt;}
+ul#partialbottom li, ul#partialbottom li .sb-inner { background:#000050; }
+ul#partialbottom li .sb-border { background:#000050; }
+
+
+
+/* ]]> */
+</style>
+
+<script language="javascript" type="text/javascript">  
+/******* js file *******/
+var RUZEE = window.RUZEE || {};
+
+RUZEE.ShadedBorder = {
+
+create: function(opts) {
+  var isie = /msie/i.test(navigator.userAgent) && !window.opera;
+  var isie6 = isie && !window.XMLHttpRequest;
+  function sty(el, h) {
+    for(k in h) {
+      if (/ie_/.test(k)) {
+        if (isie) el.style[k.substr(3)]=h[k];
+      } else el.style[k]=h[k];
+    }
+  }
+  function crdiv(h) {
+    var el=document.createElement("div");
+    el.className = "sb-gen";
+    sty(el, h);
+    return el;
+  }
+  function op(v) {
+    v = v<0 ? 0 : v;
+    if (v>0.99999) return "";
+    return isie ? " filter:alpha(opacity=" + (v*100) + ");" : " opacity:" + v + ';';
+  }
+
+  var sr = opts.shadow || 0;
+  var r = opts.corner || 0;
+  var bor = 0;
+  var bow = opts.border || 0;
+  var boo = opts.borderOpacity || 1;
+  var shadow = sr != 0;
+  var lw = r > sr ? r : sr;
+  var rw = lw;
+  var th = lw;
+  var bh = lw;
+  if (bow > 0) {
+    bor = r;
+    r = r - bow;
+  }
+  var cx = r != 0 && shadow ? Math.round(lw/3) : 0;
+  var cy = cx;
+  var cs = Math.round(cx/2);
+  var iclass = r > 0 ? "sb-inner" : "sb-shadow";
+  var sclass = "sb-shadow";
+  var bclass = "sb-border";
+  var edges = opts.edges || "trlb";
+  if (!/t/i.test(edges)) th=0;
+  if (!/b/i.test(edges)) bh=0;
+  if (!/l/i.test(edges)) lw=0;
+  if (!/r/i.test(edges)) rw=0;
+
+  var p = { position:"absolute", left:"0", top:"0", width:lw + "px", height:th + "px", 
+            ie_fontSize:"1px", overflow:"hidden", margin:"0", padding:"0" }; var tl = crdiv(p);
+  delete p.left; p.right="0"; p.width=rw + "px"; var tr = crdiv(p);
+  delete p.top; p.bottom="0"; p.height=bh + "px"; var br = crdiv(p);
+  delete p.right; p.left="0"; p.width=lw + "px"; var bl = crdiv(p);
+
+  var tw = crdiv({ position:"absolute", width:"100%", height:th + "px", ie_fontSize:"1px",
+                   top:"0", left:"0", overflow:"hidden", margin:"0", padding:"0" });
+  var t = crdiv({ position:"relative", height:th + "px", ie_fontSize:"1px",
+                  margin:"0 "+ rw + "px 0 " + lw + "px", overflow:"hidden", padding:"0" });
+  tw.appendChild(t);
+
+  var bw = crdiv({ position:"absolute", left:"0", bottom:"0", width:"100%", height:bh + "px", 
+                   ie_fontSize:"1px", overflow:"hidden", margin:"0", padding:"0" });
+                   
+  var b = crdiv({ position:"relative", height:bh + "px", ie_fontSize:"1px",
+                  margin:"0 "+ rw + "px 0 " + lw + "px", overflow:"hidden", padding:"0" });
+                  
+  bw.appendChild(b);
+
+  var mw = crdiv({ position:"absolute", top:(-bh)+"px", left:"0", width:"100%", height:"100%",
+                   overflow:"hidden", ie_fontSize:"1px", padding:"0", margin:"0" });
+
+  function corner(el,t,l) {
+    var w = l ? lw : rw;
+    var h = t ? th : bh;
+    var s = t ? cs : -cs;
+    var dsb = []; var dsi = []; var dss = [];
+    
+    var xp=0; var xd=1; if (l) { xp=w-1; xd=-1; }
+    for (var x=0; x<w; ++x) {
+      var yp=h-1; var yd=-1; if (t) { yp=0; yd=1; }
+      var finished=false;
+      for (var y=h-1; y>=0 && !finished; --y) {
+        var div = '<div style="position:absolute; top:' + yp + 'px; left:' + xp + 'px; ' +
+                  'width:1px; height:1px; overflow:hidden; margin:0; padding:0;';
+
+        var xc = x - cx; var yc = y - cy - s;
+        var d = Math.sqrt(xc*xc+yc*yc);
+        var doShadow = false;
+
+        if (r > 0) {
+          // draw border
+          if (xc < 0 && yc < bor && yc >= r || yc < 0 && xc < bor && xc >= r) {
+            dsb.push(div + op(boo) + '" class="' + bclass + '"></div>');
+          } else
+          if (d<bor && d>=r-1 && xc>=0 && yc>=0) {
+            var dd = div;
+            if (d>=bor-1) {
+              dd += op((bor-d)*boo);
+              doShadow = true;
+            } else dd += op(boo);
+            dsb.push(dd + '" class="' + bclass + '"></div>');
+          }
+          
+          // draw inner
+          var dd = div + ' z-index:2;' + (t ? 'background-position:0 -' + (r-yc-1) + 'px;' : 'background-image:none;');
+          var finish = function() {
+            if (!t) dd = dd.replace(/top\:\d+px/, "top:0px");
+            dd = dd.replace(/height\:1px/, "height:" + (y+1) + "px");
+            dsi.push(dd + '" class="' + iclass + '"></div>');
+            finished = true;
+          };
+          if (xc < 0 && yc < r || yc < 0 && xc < r) {
+            finish();
+          } else
+          if (d<r && xc>=0 && yc>=0) {
+            if (d>=r-1) {
+              dd += op(r-d);
+              doShadow = true;
+              dsi.push(dd + '" class="' + iclass + '"></div>');
+            } else {
+              finish();
+            }
+          } else doShadow = true;
+        } else doShadow = true;
+        
+        // draw shadow
+        if (sr > 0 && doShadow) {
+          d = Math.sqrt(x*x+y*y);
+          if (d<sr) {
+            dss.push(div + ' z-index:0; ' + op(1-(d/sr)) + '" class="' + sclass + '"></div>');
+          }
+        }
+        yp += yd;
+      }
+      xp += xd;
+    }
+    el.innerHTML = dss.concat(dsb.concat(dsi)).join('');
+  }
+  
+  function mid(mw) {
+    var ds = [];
+
+    ds.push('<div style="position:relative; top:' + (th+bh) + 'px; height:2048px; ' +
+            ' margin:0 ' + (rw-r-cx) + 'px 0 ' + (lw-r-cx) + 'px; ' +
+            ' padding:0; overflow:hidden;' +
+            ' background-position:0 ' + (th > 0 ? -(r+cy+cs) : '0') + 'px;"' +
+            ' class="' + iclass + '"></div>');
+
+    var dd = '<div style="position:absolute; width:1px;' +
+        ' top:' + (th+bh) + 'px; height:2048px; padding:0; margin:0;';
+    if (sr>0) {
+      for (var x=0; x<lw-r-cx; ++x) {
+        ds.push(dd + ' left:' + x + 'px;' + op((x+1.0)/lw) + 
+            '" class="' + sclass + '"></div>');
+      }
+
+      for (var x=0; x<rw-r-cx; ++x) {
+        ds.push(dd + ' right:' + x + 'px;' + op((x+1.0)/rw) + 
+            '" class="' + sclass + '"></div>');
+      }
+    }
+
+    if (bow > 0) {
+      var su = ' width:' + bow + 'px;' + op(boo) + '" class="' + bclass + '"></div>';
+      ds.push(dd + ' left:' + (lw-bor-cx) + 'px;' + su);
+      ds.push(dd + ' right:' + (rw-bor-cx) + 'px;' + su);
+    }
+
+    mw.innerHTML = ds.join('');
+  }
+
+  function tb(el, t) {
+    var ds = [];
+    var h = t ? th : bh;
+    var dd = '<div style="height:1px; overflow:hidden; position:absolute; margin:0; padding:0;' +
+        ' width:100%; left:0px; ';
+    var s = t ? cs : -cs;
+    for (var y=0; y<h-s-cy-r; ++y) {
+      if (sr>0) ds.push(dd + (t ? 'top:' : 'bottom:') + y + 'px;' + op((y+1)*1.0/h) + 
+          '" class="' + sclass + '"></div>');
+    }
+    if (y >= bow) {
+      ds.push(dd + (t ? 'top:' : 'bottom:') + (y - bow) + 'px;' + op(boo) +
+          ' height:' + bow + 'px;" class="' + bclass + '"></div>');
+    }
+
+    ds.push(dd + (t ? 'background-position-y:0; top:' : 
+                      'background-image:none; bottom:') + y + 'px;' +
+        ' height:' + (r+cy+s) + 'px;" class="' + iclass + '"></div>');
+
+    el.innerHTML = ds.join('');
+  }
+
+  corner(tl, true, true); corner(tr, true, false);
+  corner(bl, false, true); corner(br, false, false);
+  mid(mw); tb(t, true); tb(b, false);
+
+  return {
+    render: function(el) {
+      if (typeof el == 'string') el = document.getElementById(el);
+      if (el.length != undefined) {
+        for (var i=0; i<el.length; ++i) this.render(el[i]);
+        return;
+      }
+      el.className += " sb";
+      sty(el, { position:"relative", background:"transparent" });
+
+      // remove generated children
+      var node = el.firstChild;
+      while (node) {
+        var nextNode = node.nextSibling;
+        if (node.nodeType == 1 && node.className == 'sb-gen')
+          el.removeChild(node);
+        node = nextNode;
+      }
+
+      var iel = el.firstChild;
+
+      var twc = tw.cloneNode(true);
+      var mwc = mw.cloneNode(true);
+      var bwc = bw.cloneNode(true);
+      
+      el.insertBefore(tl.cloneNode(true), iel); el.insertBefore(tr.cloneNode(true), iel);
+      el.insertBefore(bl.cloneNode(true), iel); el.insertBefore(br.cloneNode(true), iel);
+      el.insertBefore(twc, iel); el.insertBefore(mwc, iel);
+      el.insertBefore(bwc, iel);
+
+      if (isie6) {
+        el.onmouseover=function() { this.className+=" hover"; }
+        el.onmouseout=function() { this.className=this.className.replace(/ hover/,""); }
+      }
+      if (isie) {
+        function resize() {
+          twc.style.width = bwc.style.width = mwc.style.width = el.offsetWidth + "px";
+          mwc.firstChild.style.height = el.offsetHeight + "px";
+        }
+        el.onresize=resize;
+        resize();
+      }
+    }
+  };
+}
+}
+
+// add our styles to the document
+document.write('\
+  <style type="text/css">\
+  .sb, .sbi, .sb *, .sbi * { position:relative; z-index:1; }\
+  * html .sb, * html .sbi { height:1%; }\
+  .sbi { display:inline-block; }\
+  .sb-inner { background:#ddd; }\
+  .sb-shadow { background:#000; }\
+  .sb-border { background:#bbb; }\
+  </style>\
+');
+/**************/
+  var partialIDs = ["tl", "tr"];
+  var partialBorders = {};
+  for (var i=0; i<partialIDs.length; ++i) {
+    partialBorders[partialIDs[i]] = RUZEE.ShadedBorder.create({
+        corner:15, border:1, edges:partialIDs[i] });
+  }
+
+  var partialIDsbottom = ["bl", "br"];
+  var partialBordersbottom = {};
+  for (var i=0; i<partialIDsbottom.length; ++i) {
+    partialBordersbottom[partialIDsbottom[i]] = RUZEE.ShadedBorder.create({
+        corner:15, border:1, edges:partialIDsbottom[i] });
+  }
+</script>
+
+</head>
+
+<body class="frontpage">
+	<div class="frontpage_top">
+		<div id="conf_container">
+			<div id="conf_confirmation">
+				 <div id="conf_top_bar">
+					<div>
+	<table border=0>
+	<tr> 
+	      <td vAlign=bottom colSpan=2>&nbsp;</td>
+	      <td colSpan=3 align=right>
+		<br>
+        	<!--div style=" margin-top:42px; width:472px;position:absolute;z-index:55; "><FONT color=blue><B> | <A 
+      href="mailto:support.stpartner@st.com"> Contact us</FONT></A></B>
+		</div>
+		<div align=right><B> <SPAN class=v10bk></SPAN></B></div-->
+	      </td>
+	    </tr>
+		<br>
+    
+	    </table>
+	</div>
+
+	<div id="conf_top_bar_rounded">
+				<ul id="partial">
+				    <li id="tl"><span></span></li>
+					<li id="conf_top_bar_title">
+					   <div style=" margin-top:7px; width:452px;position:absolute;z-index:50; "><FONT color=white>Error - 404</FONT></div>
+					   
+					   <div id="conf_top_bar_close">
+			              <span><a href="javascript:window.close();">X</a></span>
+
+				       </div>
+					</li>
+					<li id="tr">
+					   
+					</li>
+					<div id="clear_divs">
+					</div>
+				</ul>
+	</div>
+	<div id="conf_top_bar_normal"></div>
+	
+	<div id="conf_content">			
+		<div id="conf_inner_content">
+				<ul>
+				        <li> </li>
+						<li>We are sorry, but un unhandled error occurred.</li>
+                        <li>Please continue by retrying your request or by restarting the application.</li>
+						<li>If the error still occurs, contact the system administrator.</li>
+					</ul>
+
+		</div>	
+	</div>
+			
+			
+			<div id="conf_rounded_corners">
+			    <ul id="partialbottom">
+				   <li id="bl"><span></span></li>
+				   <li id="conf_bottom_center"><span></span></li>
+				   <li id="br"><span></span></li>
+				</ul>
+			</div>
+			
+			          </div>	
+		
+			</div>
+		</div>
+
+	</div>
+
+
+
+</body>
+</html>

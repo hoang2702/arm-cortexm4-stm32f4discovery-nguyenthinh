@@ -1,0 +1,14 @@
+.\exti\stm32f4_discovery.o: ..\..\..\..\Utilities\STM32F4-Discovery\stm32f4_discovery.c
+.\exti\stm32f4_discovery.o: ..\..\..\..\Utilities\STM32F4-Discovery\stm32f4_discovery.h
+.\exti\stm32f4_discovery.o: ..\..\..\..\Libraries\CMSIS\ST\STM32F4xx\Include\stm32f4xx.h
+.\exti\stm32f4_discovery.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm4.h
+.\exti\stm32f4_discovery.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\exti\stm32f4_discovery.o: ..\..\..\..\Libraries\CMSIS\Include\core_cmInstr.h
+.\exti\stm32f4_discovery.o: ..\..\..\..\Libraries\CMSIS\Include\core_cmFunc.h
+.\exti\stm32f4_discovery.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm4_simd.h
+.\exti\stm32f4_discovery.o: ..\..\..\..\Libraries\CMSIS\ST\STM32F4xx\Include\system_stm32f4xx.h
+.\exti\stm32f4_discovery.o: ..\stm32f4xx_conf.h
+.\exti\stm32f4_discovery.o: ..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_adc.h
+.\exti\stm32f4_discovery.o: ..\..\..\..\Libraries\CMSIS\ST\STM32F4xx\Include\stm32f4xx.h
+.\exti\stm32f4_discovery.o: ..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_can.h
+.\exti\stm32f4_discovery.o: ..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_crc.h

@@ -1,0 +1,14 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\LABC3-HP\Dropbox\Project_Thuong_Thinh\STM32F4-Discovery_FW_V1.1.0 - Copy\Project\Peripheral_Examples\Project_1_UART_9bit_1_UART_8bit_Lenh_HomeCoDuoi\MDK-ARM\Exti.uvproj
+Project File Date:  07/14/2014
+
+<h2>Output:</h2>
+Build target 'Exti'
+linking...
+Program Size: Code=12624 RO-data=1100 RW-data=104 ZI-data=1088  
+FromELF: creating hex file...
+".\Exti\Exti.axf" - 0 Errors, 0 Warning(s).
