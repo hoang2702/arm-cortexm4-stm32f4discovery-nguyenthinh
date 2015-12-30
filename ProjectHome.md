@@ -1,0 +1,1 @@
+Project chứa tất cả các code của các dự án được phát triển trên KIT STM32F4 Discovery.
